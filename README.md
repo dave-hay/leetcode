@@ -11,3 +11,4 @@ My leetcode solution.
 | 226. Invert Binary Tree           |
 | 347. Top K Frequent Elements      |
 | 374. Guess Number Higher or Lower |
+| 704. Binary Search                |

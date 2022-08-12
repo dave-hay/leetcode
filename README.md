@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-My leetcode solution.
+My leetcode solutions.
 
 | Completed                         |
 | --------------------------------- |
@@ -8,6 +8,7 @@ My leetcode solution.
 | 20. Valid Parentheses             |
 | 21. Merge Two Sorted Lists        |
 | 49. Group Anagram                 |
+| 94. Binary Tree Inorder Traversal |
 | 217. Contains Duplicate           |
 | 226. Invert Binary Tree           |
 | 347. Top K Frequent Elements      |

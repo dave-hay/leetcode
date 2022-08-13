@@ -14,4 +14,5 @@ My leetcode solutions.
 | 235. Lowest Common Ancestor of a Binary Search Tree |
 | 347. Top K Frequent Elements                        |
 | 374. Guess Number Higher or Lower                   |
+| 622. Design Circular Queue                          |
 | 704. Binary Search                                  |

@@ -10,6 +10,7 @@ My leetcode solutions.
 | 49. Group Anagram                                   |
 | 69. Sqrt(x)                                         |
 | 94. Binary Tree Inorder Traversal                   |
+| 121. Best Time to Buy and Sell Stock                |
 | 217. Contains Duplicate                             |
 | 226. Invert Binary Tree                             |
 | 235. Lowest Common Ancestor of a Binary Search Tree |
@@ -19,4 +20,4 @@ My leetcode solutions.
 | 622. Design Circular Queue                          |
 | 704. Binary Search                                  |
 
-Total: 14
+Total: 15

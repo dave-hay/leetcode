@@ -3,26 +3,36 @@
  * @param {number} k
  * @return {number[]}
  */
-const topKFrequent = (nums, k) => {
-  const map = {};
-  const ans = [];
-  const bucket = Array.from({ length: nums.length + 1 }, () => []); // to create unique arrays
+var topKFrequent = function (nums, k) {
+  if (nums.length === k) return nums;
 
-  // storing frequency of numbers in a map
+  /** Step 1
+   * loop over nums to get frequency
+   * map = {num[i]: count}
+   */
+  let map = {};
   for (let n of nums) {
-    map[n] = (n in map) ? 1 + map[n] : 1;
+    map[n] = n in map ? map[n] + 1 : 1;
   }
 
-  // Populate the bucket with numbers in frequency
-  // as the index of the bucket
-  for (let c in map) {
-    bucket[map[c]].push(c);
+  /** Step 2
+   * store key/num[i] in a matrix indexed by count
+   * matrix size is + 1 since count will be at least 1
+   */
+  let matrix = Array.from({ length: nums.length + 1 }, () => []);
+  for (let m in map) {
+    matrix[map[m]].push(m);
   }
 
-  for (let i = bucket.length - 1; i >= 0; i--) {
-    if (bucket[i].length > 0) {
-      bucket[i].forEach((elem) => ans.push(elem));
-      if (k === ans.length) {
+  /** Step 3
+   * loop over matrix in descending order adding to answer array until size k
+   * need explicit skip if matrix index is empty
+   */
+  let ans = [];
+  for (let i = matrix.length - 1; i >= 0; i--) {
+    if (matrix[i].length > 0) {
+      matrix[i].forEach((n) => ans.push(n));
+      if (ans.length === k) {
         return ans;
       }
     }

@@ -8,6 +8,7 @@ My leetcode solutions.
 | 20. Valid Parentheses                               |
 | 21. Merge Two Sorted Lists                          |
 | 49. Group Anagram                                   |
+| 69. Sqrt(x)                                         |
 | 94. Binary Tree Inorder Traversal                   |
 | 217. Contains Duplicate                             |
 | 226. Invert Binary Tree                             |

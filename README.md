@@ -9,6 +9,7 @@ My leetcode solutions.
 | 21. Merge Two Sorted Lists                          |
 | 49. Group Anagram                                   |
 | 69. Sqrt(x)                                         |
+| 70. Climbing Stairs                                 |
 | 94. Binary Tree Inorder Traversal                   |
 | 121. Best Time to Buy and Sell Stock                |
 | 217. Contains Duplicate                             |

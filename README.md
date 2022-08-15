@@ -13,6 +13,7 @@ My leetcode solutions.
 | 94. Binary Tree Inorder Traversal                   |
 | 121. Best Time to Buy and Sell Stock                |
 | 125. Valid Palindrome                               |
+| 141. Linked List Cycle                              |
 | 206. Reverse Linked List                            |
 | 217. Contains Duplicate                             |
 | 226. Invert Binary Tree                             |
@@ -24,4 +25,4 @@ My leetcode solutions.
 | 622. Design Circular Queue                          |
 | 704. Binary Search                                  |
 
-Total: 19
+Total: 20

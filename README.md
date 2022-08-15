@@ -12,6 +12,7 @@ My leetcode solutions.
 | 70. Climbing Stairs                                 |
 | 94. Binary Tree Inorder Traversal                   |
 | 121. Best Time to Buy and Sell Stock                |
+| 128. Longest Consecutive Sequence                   |
 | 125. Valid Palindrome                               |
 | 141. Linked List Cycle                              |
 | 206. Reverse Linked List                            |
@@ -20,10 +21,11 @@ My leetcode solutions.
 | 238. Product of Array Except Self                   |
 | 242. Valid Anagram                                  |
 | 235. Lowest Common Ancestor of a Binary Search Tree |
+| 271. Encode and Decode Strings                      |
 | 346. Moving Average from Data Stream                |
 | 347. Top K Frequent Elements                        |
 | 374. Guess Number Higher or Lower                   |
 | 622. Design Circular Queue                          |
 | 704. Binary Search                                  |
 
-Total: 21
+Total: 23

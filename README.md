@@ -12,6 +12,7 @@ My leetcode solutions.
 | 70. Climbing Stairs                                 |
 | 94. Binary Tree Inorder Traversal                   |
 | 121. Best Time to Buy and Sell Stock                |
+| 125. Valid Palindrome                               |
 | 217. Contains Duplicate                             |
 | 226. Invert Binary Tree                             |
 | 242. Valid Anagram                                  |
@@ -22,4 +23,4 @@ My leetcode solutions.
 | 622. Design Circular Queue                          |
 | 704. Binary Search                                  |
 
-Total: 17
+Total: 18

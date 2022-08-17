@@ -29,5 +29,6 @@ My leetcode solutions.
 | 374. Guess Number Higher or Lower                   |
 | 622. Design Circular Queue                          |
 | 704. Binary Search                                  |
+| 804. Unique Morse Code Words                        |
 
-Total: 25
+Total: 26

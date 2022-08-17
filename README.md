@@ -11,6 +11,7 @@ My leetcode solutions.
 | 69. Sqrt(x)                                         |
 | 70. Climbing Stairs                                 |
 | 94. Binary Tree Inorder Traversal                   |
+| 104. Maximum Depth of Binary Tree                   |
 | 121. Best Time to Buy and Sell Stock                |
 | 128. Longest Consecutive Sequence                   |
 | 125. Valid Palindrome                               |
@@ -28,4 +29,4 @@ My leetcode solutions.
 | 622. Design Circular Queue                          |
 | 704. Binary Search                                  |
 
-Total: 23
+Total: 24

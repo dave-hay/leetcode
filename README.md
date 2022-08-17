@@ -30,4 +30,4 @@ My leetcode solutions.
 | 622. Design Circular Queue                          |
 | 704. Binary Search                                  |
 
-Total: 24
+Total: 25

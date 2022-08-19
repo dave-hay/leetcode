@@ -4,6 +4,7 @@ My leetcode solutions.
 
 | Completed                                           |
 | --------------------------------------------------- |
+| 3. Longest Substring Without Repeating Characters   |
 | 11. Container With Most Water                       |
 | 15. 3Sum                                            |
 | 20. Valid Parentheses                               |
@@ -12,6 +13,7 @@ My leetcode solutions.
 | 69. Sqrt(x)                                         |
 | 70. Climbing Stairs                                 |
 | 94. Binary Tree Inorder Traversal                   |
+| 102. Binary Tree Level Order Traversal              |
 | 104. Maximum Depth of Binary Tree                   |
 | 121. Best Time to Buy and Sell Stock                |
 | 128. Longest Consecutive Sequence                   |
@@ -31,4 +33,4 @@ My leetcode solutions.
 | 704. Binary Search                                  |
 | 804. Unique Morse Code Words                        |
 
-Total: 26
+Total: 28

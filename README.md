@@ -9,6 +9,7 @@ My leetcode solutions.
 | 15. 3Sum                                            |
 | 20. Valid Parentheses                               |
 | 21. Merge Two Sorted Lists                          |
+| 33. Search in Rotated Sorted Array                  |
 | 49. Group Anagram                                   |
 | 53. Maximum Subarray                                |
 | 69. Sqrt(x)                                         |
@@ -35,4 +36,4 @@ My leetcode solutions.
 | 704. Binary Search                                  |
 | 804. Unique Morse Code Words                        |
 
-Total: 30
+Total: 31

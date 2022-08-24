@@ -10,6 +10,7 @@ My leetcode solutions.
 | 20. Valid Parentheses                               |
 | 21. Merge Two Sorted Lists                          |
 | 49. Group Anagram                                   |
+| 53. Maximum Subarray                                |
 | 69. Sqrt(x)                                         |
 | 70. Climbing Stairs                                 |
 | 94. Binary Tree Inorder Traversal                   |
@@ -33,4 +34,4 @@ My leetcode solutions.
 | 704. Binary Search                                  |
 | 804. Unique Morse Code Words                        |
 
-Total: 28
+Total: 29

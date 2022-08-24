@@ -27,6 +27,7 @@ My leetcode solutions.
 | 242. Valid Anagram                                  |
 | 235. Lowest Common Ancestor of a Binary Search Tree |
 | 271. Encode and Decode Strings                      |
+| 326. Power of Three                                 |
 | 346. Moving Average from Data Stream                |
 | 347. Top K Frequent Elements                        |
 | 374. Guess Number Higher or Lower                   |
@@ -34,4 +35,4 @@ My leetcode solutions.
 | 704. Binary Search                                  |
 | 804. Unique Morse Code Words                        |
 
-Total: 29
+Total: 30

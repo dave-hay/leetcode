@@ -21,6 +21,7 @@ My leetcode solutions.
 | 128. Longest Consecutive Sequence                   |
 | 125. Valid Palindrome                               |
 | 141. Linked List Cycle                              |
+| 167. Two Sum II - Input Array Is Sorted             |
 | 206. Reverse Linked List                            |
 | 217. Contains Duplicate                             |
 | 226. Invert Binary Tree                             |
@@ -36,4 +37,4 @@ My leetcode solutions.
 | 704. Binary Search                                  |
 | 804. Unique Morse Code Words                        |
 
-Total: 31
+Total: 32

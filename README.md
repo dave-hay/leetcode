@@ -33,8 +33,9 @@ My leetcode solutions.
 | 346. Moving Average from Data Stream                |
 | 347. Top K Frequent Elements                        |
 | 374. Guess Number Higher or Lower                   |
+| 547. Number of Provinces                            |
 | 622. Design Circular Queue                          |
 | 704. Binary Search                                  |
 | 804. Unique Morse Code Words                        |
 
-Total: 32
+Total: 33

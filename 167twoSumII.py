@@ -1,21 +1,19 @@
 class Solution:
 
-    def twoSum(self, nums, target):
+    def twoSum(self, numbers, target):
         """
         Time Complexity: O(n)
         Space Complexity: O(1)
         """
-        low = 0
-        high = len(nums) - 1
+        l = 0
+        r = len(numbers) - 1
 
-        while low < high:
-            diff = nums[low] + nums[high]
+        while l < r:
+            total = numbers[l] + numbers[r]
+            if total == target:
+                return [l + 1, r + 1]
 
-            if diff == target:
-                return [low + 1, high + 1]
-
-            elif diff < target:
-                low += 1
+            if total > target:
+                r -= 1
             else:
-                high -= 1
-        return [-1, -1]
+                l += 1

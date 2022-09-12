@@ -37,6 +37,8 @@ My leetcode solutions.
 | 547. Number of Provinces                            |
 | 622. Design Circular Queue                          |
 | 704. Binary Search                                  |
+| 797. All Paths From Source to Target                |
 | 804. Unique Morse Code Words                        |
+| 1971. Find If Path Exists in Graph                  |
 
-Total: 34
+Total: 36

@@ -42,4 +42,4 @@ My leetcode solutions.
 | 804. Unique Morse Code Words                        |
 | 1971. Find If Path Exists in Graph                  |
 
-Total: 36
+Total: 37

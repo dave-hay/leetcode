@@ -17,6 +17,7 @@ My leetcode solutions.
 | 94. Binary Tree Inorder Traversal                   |
 | 102. Binary Tree Level Order Traversal              |
 | 104. Maximum Depth of Binary Tree                   |
+| 116. Populating Next Right Pointers in Each Node    |
 | 121. Best Time to Buy and Sell Stock                |
 | 128. Longest Consecutive Sequence                   |
 | 125. Valid Palindrome                               |

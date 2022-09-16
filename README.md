@@ -12,6 +12,7 @@ My leetcode solutions.
 | 33. Search in Rotated Sorted Array                  |
 | 49. Group Anagram                                   |
 | 53. Maximum Subarray                                |
+| 56. Merge Intervals                                 |
 | 69. Sqrt(x)                                         |
 | 70. Climbing Stairs                                 |
 | 94. Binary Tree Inorder Traversal                   |
@@ -43,4 +44,4 @@ My leetcode solutions.
 | 804. Unique Morse Code Words                        |
 | 1971. Find If Path Exists in Graph                  |
 
-Total: 37
+Total: 39

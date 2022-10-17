@@ -3,30 +3,37 @@
  * @return {number[][]}
  */
 var threeSum = function (nums) {
-  let res = [];
-  nums.sort();
+  let ans = [];
+  nums.sort((a, b) => a - b);
+
   for (let i = 0; i < nums.length; i++) {
-    if (nums[i] > 0) break;
-    if (i === 0 || nums[i - 1] != nums[i]) {
-      twoSum(nums, i, res);
+    if (nums[i] > 0) {
+      break;
+    } else if (i === 0 || nums[i] != nums[i - 1]) {
+      twoSum(i, ans, nums);
     }
   }
-  return res;
+  return ans;
 };
 
-const twoSum = (nums, i, res) => {
-  let seen = new Set();
-  let j = i + 1;
+const twoSum = (i, ans, nums) => {
+  let lo = i + 1;
+  let hi = nums.length - 1;
 
-  while (j < nums.length) {
-    let comp = -nums[i] - nums[j];
-    if (seen.has(comp)) {
-      res.push([nums[i], nums[j], comp]);
-      while (j + 1 < nums.length && nums[j] === nums[j + 1]) {
-        j++;
+  while (lo < hi) {
+    let sum = nums[i] + nums[lo] + nums[hi];
+    if (sum > 0) {
+      hi--;
+    } else if (sum < 0) {
+      lo++;
+    } else {
+      ans.push([nums[i], nums[lo], nums[hi]]);
+      lo++;
+      hi--;
+
+      while (lo < hi && nums[lo] == nums[lo - 1]) {
+        lo++;
       }
     }
-    seen.add(nums[j]);
-    j++;
   }
 };

@@ -5,6 +5,7 @@ My leetcode solutions.
 | Completed                                           |
 | --------------------------------------------------- |
 | 3. Longest Substring Without Repeating Characters   |
+| 8. String To Integer (atoi)                         |
 | 11. Container With Most Water                       |
 | 15. 3Sum                                            |
 | 20. Valid Parentheses                               |
@@ -43,6 +44,7 @@ My leetcode solutions.
 | 733. 733 Flood Fill                                 |
 | 797. All Paths From Source to Target                |
 | 804. Unique Morse Code Words                        |
+| 992. Subarray With K Different Integers             |
 | 1971. Find If Path Exists in Graph                  |
 
-Total: 40
+Total: 42

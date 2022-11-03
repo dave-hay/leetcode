@@ -26,6 +26,7 @@ My leetcode solutions.
 | 133. Clone Graph                                                                               |
 | 141. Linked List Cycle                                                                         |
 | 167. Two Sum II - Input Array Is Sorted                                                        |
+| 169. [Majority Element](https://leetcode.com/problems/majority-element/description/)           |
 | 206. Reverse Linked List                                                                       |
 | 217. Contains Duplicate                                                                        |
 | 226. Invert Binary Tree                                                                        |
@@ -47,4 +48,4 @@ My leetcode solutions.
 | 992. Subarray With K Different Integers                                                        |
 | 1971. Find If Path Exists in Graph                                                             |
 
-Total: 42
+Total: 43

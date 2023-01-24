@@ -2,13 +2,14 @@
 
 My leetcode solutions.
 
-Total: 51
+Total: 53
 
 | Completed                                                                                                         | Python | JavaScript |
 | ----------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
 | 0002. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                           |        | x          |
 | 0003. Longest Substring Without Repeating Characters                                                              | x      | x          |
 | 0008. [String To Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)                           |        | x          |
+| 0005. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)               | x      |            |
 | 0011. Container With Most Water                                                                                   |        | x          |
 | 0015. 3Sum                                                                                                        | x      | x          |
 | 0020. Valid Parentheses                                                                                           | x      | x          |
@@ -33,6 +34,7 @@ Total: 51
 | 0169. [Majority Element](https://leetcode.com/problems/majority-element/)                                         |        | x          |
 | 0198. House Robber                                                                                                |        | x          |
 | 0206. Reverse Linked List                                                                                         |        | x          |
+| 0213. [House Robber II](https://leetcode.com/problems/house-robber-ii/)                                           | x      |            |
 | 0217. Kth Largest Element in an Array                                                                             | x      |            |
 | 0217. Contains Duplicate                                                                                          |        | x          |
 | 0226. Invert Binary Tree                                                                                          |        | x          |

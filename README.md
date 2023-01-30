@@ -57,6 +57,7 @@ Total: 54
 | 0804. Unique Morse Code Words                                                                                     |        | x          |
 | 0992. Subarray With K Different Integers                                                                          |        | x          |
 | [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)                     | X      |            |
+| [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)                             | x      |            |
 | [1335. Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/) | x      |            |
 | 1770. Maximum Score from Performing Multiplication Operations                                                     | x      | x          |
 | 1971. Find If Path Exists in Graph                                                                                | x      | x          |

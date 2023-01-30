@@ -39,7 +39,7 @@ Total: 53
 | 0217. Contains Duplicate                                                                                          |        | x          |
 | 0226. Invert Binary Tree                                                                                          |        | x          |
 | 0235. Lowest Common Ancestor of a Binary Search Tree                                                              | x      | x          |
-| 0238. Product of Array Except Self                                                                                |        | x          |
+| 0238. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)                 | x      | x          |
 | 0242. Valid Anagram                                                                                               |        | x          |
 | 0271. Encode and Decode Strings                                                                                   |        | x          |
 | 0326. Power of Three                                                                                              | x      |            |

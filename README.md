@@ -2,7 +2,7 @@
 
 My leetcode solutions.
 
-Total: 53
+Total: 54
 
 | Completed                                                                                                         | Python | JavaScript |
 | ----------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -27,7 +27,7 @@ Total: 53
 | 0116. Populating Next Right Pointers in Each Node                                                                 | x      |            |
 | 0121. Best Time to Buy and Sell Stock                                                                             |        | x          |
 | 0125. Valid Palindrome                                                                                            |        | x          |
-| 0128. Longest Consecutive Sequence                                                                                | x      | x          |
+| 0128. [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)                 | x      | x          |
 | 0133. Clone Graph                                                                                                 | x      | x          |
 | 0141. Linked List Cycle                                                                                           |        | x          |
 | 0167. Two Sum II - Input Array Is Sorted                                                                          | x      |            |
@@ -41,11 +41,11 @@ Total: 53
 | 0235. Lowest Common Ancestor of a Binary Search Tree                                                              | x      | x          |
 | 0238. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)                 | x      | x          |
 | 0242. Valid Anagram                                                                                               |        | x          |
-| 0271. Encode and Decode Strings                                                                                   |        | x          |
+| 0271. [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)                       | x      | x          |
 | 0326. Power of Three                                                                                              | x      |            |
 | 0322. [Coin Change](https://leetcode.com/problems/coin-change)                                                    | x      |            |
 | 0346. Moving Average from Data Stream                                                                             |        | x          |
-| 0347. Top K Frequent Elements                                                                                     | x      | x          |
+| 0347. [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)                           | x      | x          |
 | 0374. Guess Number Higher or Lower                                                                                |        | x          |
 | 0424. Longest Repeating Character Replacement                                                                     | x      |            |
 | 0547. Number of Provinces                                                                                         | x      |            |

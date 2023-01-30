@@ -10,8 +10,8 @@ Total: 54
 | 0003. Longest Substring Without Repeating Characters                                                              | x      | x          |
 | 0008. [String To Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)                           |        | x          |
 | 0005. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)               | x      |            |
-| 0011. Container With Most Water                                                                                   |        | x          |
-| 0015. 3Sum                                                                                                        | x      | x          |
+| 0011. [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)                       | x      | x          |
+| 0015. [3Sum](https://leetcode.com/problems/3sum/)                                                                 | x      | x          |
 | 0020. Valid Parentheses                                                                                           | x      | x          |
 | 0021. Merge Two Sorted Lists                                                                                      | x      | x          |
 | 0033. Search in Rotated Sorted Array                                                                              | x      |            |

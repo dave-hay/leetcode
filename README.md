@@ -2,7 +2,7 @@
 
 My leetcode solutions.
 
-Total: 54
+Total: 56
 
 | Completed                                                                                                         | Python | JavaScript |
 | ----------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -59,5 +59,6 @@ Total: 54
 | [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)                     | X      |            |
 | [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)                             | x      |            |
 | [1335. Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/) | x      |            |
+| [1626. Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/)                   | x      |            |
 | 1770. Maximum Score from Performing Multiplication Operations                                                     | x      | x          |
 | 1971. Find If Path Exists in Graph                                                                                | x      | x          |

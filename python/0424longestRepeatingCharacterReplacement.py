@@ -1,11 +1,11 @@
 from collections import defaultdict
+
 """
 O(n)
 """
 
 
 class Solution:
-
     def characterReplacement(self, s: str, k: int) -> int:
         # brute force would be loop of loop
         # add counter to check divergent letters from ith
@@ -32,5 +32,43 @@ class Solution:
                 l += 1
 
             ans = max(ans, r - l + 1)
-
         return ans
+
+
+class Solution2:
+    """
+    time: O(26 * n):
+
+    space: O(26)
+    """
+
+    def characterReplacement(self, s: str, k: int) -> int:
+        left = 0
+        total = 1
+        alph = [0] * 26
+
+        for right in range(len(s)):
+            alph[ord(s[right]) - ord("A")] += 1
+
+            # determine changes needed to be viable
+            length = right - left + 1
+            mostCommon = 0
+            for count in alph:
+                mostCommon = max(mostCommon, count)
+            changesNeeded = length - mostCommon
+
+            if changesNeeded <= k:
+                total = max(total, length)
+
+            else:
+                # remove until can get a total
+                while changesNeeded > k and left < right:
+                    alph[ord(s[left]) - ord("A")] -= 1
+                    left += 1
+                    mostCommon = 0
+                    for count in alph:
+                        mostCommon = max(mostCommon, count)
+
+                    length = right - left + 1
+                    changesNeeded = length - mostCommon
+        return total

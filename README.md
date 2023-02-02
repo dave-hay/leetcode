@@ -2,7 +2,7 @@
 
 My leetcode solutions.
 
-Total: 59
+Total: 60
 
 | Completed                                                                                                                             | Python | JavaScript |
 | ------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -22,6 +22,7 @@ Total: 59
 | 0069. Sqrt(x)                                                                                                                         | x      | x          |
 | 0070. Climbing Stairs                                                                                                                 |        | x          |
 | 0094. Binary Tree Inorder Traversal                                                                                                   |        | x          |
+| [100. Same Tree](https://leetcode.com/problems/same-tree/)                                                                            | x      |            |
 | 0102. Binary Tree Level Order Traversal                                                                                               |        | x          |
 | [0104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                                     | x      | x          |
 | 0116. Populating Next Right Pointers in Each Node                                                                                     | x      |            |

@@ -23,7 +23,7 @@ Total: 59
 | 0070. Climbing Stairs                                                                                                                 |        | x          |
 | 0094. Binary Tree Inorder Traversal                                                                                                   |        | x          |
 | 0102. Binary Tree Level Order Traversal                                                                                               |        | x          |
-| 0104. Maximum Depth of Binary Tree                                                                                                    |        | x          |
+| [0104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                                     | x      | x          |
 | 0116. Populating Next Right Pointers in Each Node                                                                                     | x      |            |
 | [0121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                               | x      | x          |
 | 0125. Valid Palindrome                                                                                                                |        | x          |

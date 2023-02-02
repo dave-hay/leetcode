@@ -38,7 +38,7 @@ Total: 59
 | [0213. House Robber II](https://leetcode.com/problems/house-robber-ii/)                                                               | x      |            |
 | 0217. Kth Largest Element in an Array                                                                                                 | x      |            |
 | 0217. Contains Duplicate                                                                                                              |        | x          |
-| 0226. Invert Binary Tree                                                                                                              |        | x          |
+| [0226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)                                                         | x      | x          |
 | 0235. Lowest Common Ancestor of a Binary Search Tree                                                                                  | x      | x          |
 | [0238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)                                     | x      | x          |
 | 0242. Valid Anagram                                                                                                                   |        | x          |

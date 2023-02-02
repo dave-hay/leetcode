@@ -2,7 +2,7 @@
 
 My leetcode solutions.
 
-Total: 56
+Total: 59
 
 | Completed                                                                                                                             | Python | JavaScript |
 | ------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -56,7 +56,9 @@ Total: 56
 | 0733. 733 Flood Fill                                                                                                                  |        | x          |
 | 0797. All Paths From Source to Target                                                                                                 | x      | x          |
 | 0804. Unique Morse Code Words                                                                                                         |        | x          |
+| [953. Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)                                    | x      |            |
 | 0992. Subarray With K Different Integers                                                                                              |        | x          |
+| [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)                         | x      |            |
 | [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)                                         | X      |            |
 | [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)                                                 | x      |            |
 | [1335. Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/)                     | x      |            |

@@ -2,7 +2,7 @@
 
 My leetcode solutions.
 
-Total: 61
+Total: 62
 
 | Completed                                                                                                                             | Python | JavaScript |
 | ------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -52,6 +52,7 @@ Total: 61
 | 0424. Longest Repeating Character Replacement                                                                                         | x      |            |
 | 0547. Number of Provinces                                                                                                             | x      |            |
 | [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/)                                                    | x      |            |
+| [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)                                                | x      |            |
 | 0622. Design Circular Queue                                                                                                           |        | x          |
 | [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)                                                  | x      |            |
 | 0704. Binary Search                                                                                                                   |        | x          |

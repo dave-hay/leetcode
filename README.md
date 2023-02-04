@@ -2,7 +2,7 @@
 
 My leetcode solutions.
 
-Total: 60
+Total: 61
 
 | Completed                                                                                                                             | Python | JavaScript |
 | ------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -51,6 +51,7 @@ Total: 60
 | 0374. Guess Number Higher or Lower                                                                                                    |        | x          |
 | 0424. Longest Repeating Character Replacement                                                                                         | x      |            |
 | 0547. Number of Provinces                                                                                                             | x      |            |
+| [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/)                                                    | x      |            |
 | 0622. Design Circular Queue                                                                                                           |        | x          |
 | [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)                                                  | x      |            |
 | 0704. Binary Search                                                                                                                   |        | x          |

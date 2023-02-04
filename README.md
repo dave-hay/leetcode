@@ -14,7 +14,7 @@ Total: 61
 | [0015. 3Sum](https://leetcode.com/problems/3sum/)                                                                                     | x      | x          |
 | [0020. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                                           | x      | x          |
 | 0021. Merge Two Sorted Lists                                                                                                          | x      | x          |
-| 0033. Search in Rotated Sorted Array                                                                                                  | x      |            |
+| [0033. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)                                 | x      |            |
 | 0049. Group Anagram                                                                                                                   |        | x          |
 | [0053. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                             |        | x          |
 | 0056. Merge Intervals                                                                                                                 |        | x          |

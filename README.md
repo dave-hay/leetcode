@@ -2,10 +2,11 @@
 
 My leetcode solutions.
 
-Total: 62
+Total: 63
 
 | Completed                                                                                                                             | Python | JavaScript |
 | ------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
+| [0001. Two Sum](https://leetcode.com/problems/two-sum/)                                                                               | x      |            |
 | [0002. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                                               |        | x          |
 | [0003. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | x      | x          |
 | [0008. String To Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)                                               |        | x          |

@@ -2,7 +2,7 @@
 
 My leetcode solutions.
 
-Total: 66
+Total: 67
 
 | Completed                                                                                                                             | Python | JavaScript |
 | ------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -43,7 +43,7 @@ Total: 66
 | 0217. Kth Largest Element in an Array                                                                                                 | x      |            |
 | 0217. Contains Duplicate                                                                                                              |        | x          |
 | [0226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)                                                         | x      | x          |
-| 0235. Lowest Common Ancestor of a Binary Search Tree                                                                                  | x      | x          |
+| [0235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | x      | x          |
 | [0238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)                                     | x      | x          |
 | 0242. Valid Anagram                                                                                                                   |        | x          |
 | [0271. Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)                                           | x      | x          |
@@ -62,6 +62,7 @@ Total: 66
 | 0733. 733 Flood Fill                                                                                                                  |        | x          |
 | 0797. All Paths From Source to Target                                                                                                 | x      | x          |
 | 0804. Unique Morse Code Words                                                                                                         |        | x          |
+| [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)                                                          | x      |            |
 | [953. Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)                                    | x      |            |
 | 0992. Subarray With K Different Integers                                                                                              |        | x          |
 | [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)                         | x      |            |

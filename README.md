@@ -24,8 +24,8 @@ Total: 67
 | 0069. Sqrt(x)                                                                                                                         | x      | x          |
 | 0070. Climbing Stairs                                                                                                                 |        | x          |
 | 0094. Binary Tree Inorder Traversal                                                                                                   |        | x          |
-| [100. Same Tree](https://leetcode.com/problems/same-tree/)                                                                            | x      |            |
-| 0102. Binary Tree Level Order Traversal                                                                                               |        | x          |
+| [0100. Same Tree](https://leetcode.com/problems/same-tree/)                                                                           | x      |            |
+| [0102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)                           | x      | x          |
 | [0104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                                     | x      | x          |
 | 0116. Populating Next Right Pointers in Each Node                                                                                     | x      |            |
 | [0121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                               | x      | x          |
@@ -54,16 +54,16 @@ Total: 67
 | 0374. Guess Number Higher or Lower                                                                                                    |        | x          |
 | 0424. Longest Repeating Character Replacement                                                                                         | x      |            |
 | 0547. Number of Provinces                                                                                                             | x      |            |
-| [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/)                                                    | x      |            |
-| [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)                                                | x      |            |
+| [0567. Permutation in String](https://leetcode.com/problems/permutation-in-string/)                                                   | x      |            |
+| [0572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)                                               | x      |            |
 | 0622. Design Circular Queue                                                                                                           |        | x          |
-| [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)                                                  | x      |            |
+| [0647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)                                                 | x      |            |
 | 0704. Binary Search                                                                                                                   |        | x          |
 | 0733. 733 Flood Fill                                                                                                                  |        | x          |
 | 0797. All Paths From Source to Target                                                                                                 | x      | x          |
 | 0804. Unique Morse Code Words                                                                                                         |        | x          |
-| [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)                                                          | x      |            |
-| [953. Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)                                    | x      |            |
+| [0904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)                                                         | x      |            |
+| [0953. Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)                                   | x      |            |
 | 0992. Subarray With K Different Integers                                                                                              |        | x          |
 | [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)                         | x      |            |
 | [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)                                         | X      |            |

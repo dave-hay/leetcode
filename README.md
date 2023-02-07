@@ -2,15 +2,15 @@
 
 My leetcode solutions.
 
-Total: 67
+Total: 69
 
 | Completed                                                                                                                             | Python | JavaScript |
 | ------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
 | [0001. Two Sum](https://leetcode.com/problems/two-sum/)                                                                               | x      |            |
 | [0002. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                                               |        | x          |
 | [0003. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | x      | x          |
-| [0008. String To Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)                                               |        | x          |
 | [0005. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)                                   | x      |            |
+| [0008. String To Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)                                               |        | x          |
 | [0011. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)                                           | x      | x          |
 | [0015. 3Sum](https://leetcode.com/problems/3sum/)                                                                                     | x      | x          |
 | [0019. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)                             | x      |            |
@@ -24,6 +24,7 @@ Total: 67
 | 0069. Sqrt(x)                                                                                                                         | x      | x          |
 | 0070. Climbing Stairs                                                                                                                 |        | x          |
 | 0094. Binary Tree Inorder Traversal                                                                                                   |        | x          |
+| [0098. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)                                       | x      |            |
 | [0100. Same Tree](https://leetcode.com/problems/same-tree/)                                                                           | x      |            |
 | [0102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)                           | x      | x          |
 | [0104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                                     | x      | x          |
@@ -40,7 +41,7 @@ Total: 67
 | 0198. House Robber                                                                                                                    |        | x          |
 | 0206. Reverse Linked List                                                                                                             |        | x          |
 | [0213. House Robber II](https://leetcode.com/problems/house-robber-ii/)                                                               | x      |            |
-| 0217. Kth Largest Element in an Array                                                                                                 | x      |            |
+| 0215. Kth Largest Element in an Array                                                                                                 | x      |            |
 | 0217. Contains Duplicate                                                                                                              |        | x          |
 | [0226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)                                                         | x      | x          |
 | [0235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | x      | x          |
@@ -59,7 +60,7 @@ Total: 67
 | 0622. Design Circular Queue                                                                                                           |        | x          |
 | [0647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)                                                 | x      |            |
 | 0704. Binary Search                                                                                                                   |        | x          |
-| 0733. 733 Flood Fill                                                                                                                  |        | x          |
+| 0733. Flood Fill                                                                                                                      |        | x          |
 | 0797. All Paths From Source to Target                                                                                                 | x      | x          |
 | 0804. Unique Morse Code Words                                                                                                         |        | x          |
 | [0904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)                                                         | x      |            |

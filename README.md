@@ -2,7 +2,7 @@
 
 My leetcode solutions.
 
-Total: 69
+Total: 71
 
 | Completed                                                                                                                             | Python | JavaScript |
 | ------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -17,8 +17,10 @@ Total: 69
 | [0020. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                                           | x      | x          |
 | 0021. Merge Two Sorted Lists                                                                                                          | x      | x          |
 | [0033. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)                                 | x      |            |
+| [0045. Jump Game II](https://leetcode.com/problems/jump-game-ii/)                                                                     | x      |            |
 | 0049. Group Anagram                                                                                                                   |        | x          |
 | [0053. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                             |        | x          |
+| [0055. Jump Game](https://leetcode.com/problems/jump-game/)                                                                           | x      |            |
 | 0056. Merge Intervals                                                                                                                 |        | x          |
 | [0057. Insert Interval](https://leetcode.com/problems/insert-interval/)                                                               |        | x          |
 | 0069. Sqrt(x)                                                                                                                         | x      | x          |

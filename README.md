@@ -12,6 +12,7 @@ Total: 74
 | [0005. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)                                                        | x      |            |
 | [0008. String To Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)                                                                    |        | x          |
 | [0011. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)                                                                | x      | x          |
+| [0013. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                                                                                  | x      |            |
 | [0015. 3Sum](https://leetcode.com/problems/3sum/)                                                                                                          | x      | x          |
 | [0019. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)                                                  | x      |            |
 | [0020. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                                                                | x      | x          |

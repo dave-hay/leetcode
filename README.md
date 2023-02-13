@@ -2,7 +2,7 @@
 
 My leetcode solutions.
 
-Total: 75
+Total: 76
 
 | Completed                                                                                                                                                  | Python | JavaScript |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -46,6 +46,7 @@ Total: 75
 | 0198. House Robber                                                                                                                                         |        | x          |
 | 0206. Reverse Linked List                                                                                                                                  |        | x          |
 | [0208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)                                                            | x      |            |
+| [0211. Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)                              | x      |            |
 | [0213. House Robber II](https://leetcode.com/problems/house-robber-ii/)                                                                                    | x      |            |
 | 0215. Kth Largest Element in an Array                                                                                                                      | x      |            |
 | 0217. Contains Duplicate                                                                                                                                   |        | x          |

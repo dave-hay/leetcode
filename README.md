@@ -2,7 +2,7 @@
 
 My leetcode solutions.
 
-Total: 74
+Total: 75
 
 | Completed                                                                                                                                                  | Python | JavaScript |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -45,6 +45,7 @@ Total: 74
 | [0169. Majority Element](https://leetcode.com/problems/majority-element/)                                                                                  |        | x          |
 | 0198. House Robber                                                                                                                                         |        | x          |
 | 0206. Reverse Linked List                                                                                                                                  |        | x          |
+| [0208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)                                                            | x      |            |
 | [0213. House Robber II](https://leetcode.com/problems/house-robber-ii/)                                                                                    | x      |            |
 | 0215. Kth Largest Element in an Array                                                                                                                      | x      |            |
 | 0217. Contains Duplicate                                                                                                                                   |        | x          |

@@ -2,7 +2,7 @@
 
 My leetcode solutions.
 
-Total: 76
+Total: 77
 
 | Completed                                                                                                                                                  | Python | JavaScript |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -27,6 +27,7 @@ Total: 76
 | [0057. Insert Interval](https://leetcode.com/problems/insert-interval/)                                                                                    |        | x          |
 | 0069. Sqrt(x)                                                                                                                                              | x      | x          |
 | 0070. Climbing Stairs                                                                                                                                      |        | x          |
+| [0079. Word Search](https://leetcode.com/problems/word-search/)                                                                                            | x      |            |
 | 0094. Binary Tree Inorder Traversal                                                                                                                        |        | x          |
 | [0098. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)                                                            | x      |            |
 | [0100. Same Tree](https://leetcode.com/problems/same-tree/)                                                                                                | x      |            |

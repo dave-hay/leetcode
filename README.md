@@ -2,7 +2,7 @@
 
 My leetcode solutions.
 
-Total: 77
+Total: 78
 
 | Completed                                                                                                                                                  | Python | JavaScript |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -45,6 +45,7 @@ Total: 77
 | 0167. Two Sum II - Input Array Is Sorted                                                                                                                   | x      |            |
 | [0169. Majority Element](https://leetcode.com/problems/majority-element/)                                                                                  |        | x          |
 | 0198. House Robber                                                                                                                                         |        | x          |
+| [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)                                                                                 | x      |            |
 | 0206. Reverse Linked List                                                                                                                                  |        | x          |
 | [0208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)                                                            | x      |            |
 | [0211. Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)                              | x      |            |

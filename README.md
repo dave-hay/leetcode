@@ -2,7 +2,7 @@
 
 My leetcode solutions.
 
-Total: 78
+Total: 79
 
 | Completed                                                                                                                                                  | Python | JavaScript |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -63,6 +63,7 @@ Total: 78
 | 0346. Moving Average from Data Stream                                                                                                                      |        | x          |
 | [0347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)                                                                    | x      | x          |
 | 0374. Guess Number Higher or Lower                                                                                                                         |        | x          |
+| [0417. Pacific Atlantic Water Flow](https://www.youtube.com/watch?v=s-VkcjHqkGI)                                                                           | x      |            |
 | 0424. Longest Repeating Character Replacement                                                                                                              | x      |            |
 | 0547. Number of Provinces                                                                                                                                  | x      |            |
 | [0567. Permutation in String](https://leetcode.com/problems/permutation-in-string/)                                                                        | x      |            |

@@ -72,6 +72,7 @@ Total: 79
 | [0647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)                                                                      | x      |            |
 | 0704. Binary Search                                                                                                                                        |        | x          |
 | 0733. Flood Fill                                                                                                                                           |        | x          |
+| [0783. Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)                                              | x      |            |
 | 0797. All Paths From Source to Target                                                                                                                      | x      | x          |
 | 0804. Unique Morse Code Words                                                                                                                              |        | x          |
 | [0904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)                                                                              | x      |            |

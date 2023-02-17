@@ -2,7 +2,7 @@
 
 My leetcode solutions.
 
-Total: 79
+Total: 81
 
 | Completed                                                                                                                                                  | Python | JavaScript |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -47,6 +47,7 @@ Total: 79
 | 0198. House Robber                                                                                                                                         |        | x          |
 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)                                                                                 | x      |            |
 | 0206. Reverse Linked List                                                                                                                                  |        | x          |
+| [0207. Course Schedule](https://leetcode.com/problems/course-schedule/)                                                                                    | x      |            |
 | [0208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)                                                            | x      |            |
 | [0211. Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)                              | x      |            |
 | [0213. House Robber II](https://leetcode.com/problems/house-robber-ii/)                                                                                    | x      |            |

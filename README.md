@@ -2,7 +2,7 @@
 
 My leetcode solutions.
 
-Total: 81
+Total: 82
 
 | Completed                                                                                                                                                  | Python | JavaScript |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -58,6 +58,7 @@ Total: 81
 | [0235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)                      | x      | x          |
 | [0238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)                                                          | x      | x          |
 | 0242. Valid Anagram                                                                                                                                        |        | x          |
+| [0261. Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/)                                                                                  | x      |            |
 | [0271. Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)                                                                | x      | x          |
 | 0326. Power of Three                                                                                                                                       | x      |            |
 | [0322. Coin Change](https://leetcode.com/problems/coin-change)                                                                                             | x      |            |

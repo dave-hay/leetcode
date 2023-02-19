@@ -2,7 +2,7 @@
 
 My leetcode solutions.
 
-Total: 82
+Total: 84
 
 | Completed                                                                                                                                                  | Python | JavaScript |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -32,6 +32,7 @@ Total: 82
 | [0098. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)                                                            | x      |            |
 | [0100. Same Tree](https://leetcode.com/problems/same-tree/)                                                                                                | x      |            |
 | [0102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)                                                | x      | x          |
+| [0103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)                                  | x      |            |
 | [0104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                                                          | x      | x          |
 | [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | x      |            |
 | 0116. Populating Next Right Pointers in Each Node                                                                                                          | x      |            |

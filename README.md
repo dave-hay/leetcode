@@ -2,7 +2,7 @@
 
 My leetcode solutions.
 
-Total: 85
+Total: 86
 
 | Completed                                                                                                                                                  | Python | JavaScript |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -70,6 +70,7 @@ Total: 85
 | 0374. Guess Number Higher or Lower                                                                                                                         |        | x          |
 | [0417. Pacific Atlantic Water Flow](https://www.youtube.com/watch?v=s-VkcjHqkGI)                                                                           | x      |            |
 | 0424. Longest Repeating Character Replacement                                                                                                              | x      |            |
+| [0540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)                                                  | x      |            |
 | 0547. Number of Provinces                                                                                                                                  | x      |            |
 | [0567. Permutation in String](https://leetcode.com/problems/permutation-in-string/)                                                                        | x      |            |
 | [0572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)                                                                    | x      |            |

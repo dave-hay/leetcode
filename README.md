@@ -2,7 +2,7 @@
 
 My leetcode solutions.
 
-Total: 86
+Total: 87
 
 | Completed                                                                                                                                                  | Python | JavaScript |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -81,6 +81,7 @@ Total: 86
 | [0783. Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)                                              | x      |            |
 | 0797. All Paths From Source to Target                                                                                                                      | x      | x          |
 | 0804. Unique Morse Code Words                                                                                                                              |        | x          |
+| [0875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)                                                                            | x      |            |
 | [0904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)                                                                              | x      |            |
 | [0953. Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)                                                        | x      |            |
 | 0992. Subarray With K Different Integers                                                                                                                   |        | x          |

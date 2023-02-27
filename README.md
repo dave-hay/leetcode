@@ -2,7 +2,7 @@
 
 My leetcode solutions.
 
-Total: 90
+Total: 91
 
 | Completed                                                                                                                                                  | Python | JavaScript |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -91,6 +91,7 @@ Total: 90
 | [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)                                              | x      |            |
 | [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)                                                              | X      |            |
 | [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)                                                                      | x      |            |
+| [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)                                                          | x      |            |
 | [1335. Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/)                                          | x      |            |
 | [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)                                                                                | x      |            |
 | [1626. Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/)                                                            | x      |            |

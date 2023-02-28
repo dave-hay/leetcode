@@ -2,7 +2,7 @@
 
 My leetcode solutions.
 
-Total: 91
+Total: 92
 
 | Completed                                                                                                                                                  | Python | JavaScript |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -65,6 +65,7 @@ Total: 91
 | 0242. Valid Anagram                                                                                                                                        |        | x          |
 | [0261. Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/)                                                                                  | x      |            |
 | [0271. Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)                                                                | x      | x          |
+| [0295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)                                                          | x      |            |
 | 0326. Power of Three                                                                                                                                       | x      |            |
 | [0322. Coin Change](https://leetcode.com/problems/coin-change)                                                                                             | x      |            |
 | [0323. Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)        | x      |            |

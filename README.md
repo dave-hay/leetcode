@@ -2,7 +2,7 @@
 
 My leetcode solutions.
 
-Total: 92
+Total: 93
 
 | Completed                                                                                                                                                  | Python | JavaScript |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -26,6 +26,7 @@ Total: 92
 | [0055. Jump Game](https://leetcode.com/problems/jump-game/)                                                                                                | x      |            |
 | 0056. Merge Intervals                                                                                                                                      |        | x          |
 | [0057. Insert Interval](https://leetcode.com/problems/insert-interval/)                                                                                    |        | x          |
+| [0062. Unique Paths](https://leetcode.com/problems/unique-paths/)                                                                                          | x      |            |
 | 0069. Sqrt(x)                                                                                                                                              | x      | x          |
 | 0070. Climbing Stairs                                                                                                                                      |        | x          |
 | [0079. Word Search](https://leetcode.com/problems/word-search/)                                                                                            | x      |            |

@@ -2,7 +2,7 @@
 
 My leetcode solutions.
 
-Total: 94
+Total: 95
 
 | Completed                                                                                                                                                  | Python | JavaScript |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -25,6 +25,7 @@ Total: 94
 | 0049. Group Anagram                                                                                                                                        |        | x          |
 | [0053. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                                                  |        | x          |
 | [0055. Jump Game](https://leetcode.com/problems/jump-game/)                                                                                                | x      |            |
+| [0056. Merge Intervals](https://leetcode.com/problems/merge-intervals/)                                                                                    | x      |            |
 | 0056. Merge Intervals                                                                                                                                      |        | x          |
 | [0057. Insert Interval](https://leetcode.com/problems/insert-interval/)                                                                                    | x      | x          |
 | [0062. Unique Paths](https://leetcode.com/problems/unique-paths/)                                                                                          | x      |            |

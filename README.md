@@ -2,7 +2,7 @@
 
 My leetcode solutions.
 
-Total: 96
+Total: 97
 
 | Completed                                                                                                                                                  | Python | JavaScript |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -77,7 +77,7 @@ Total: 96
 | 0374. Guess Number Higher or Lower                                                                                                                         |        | x          |
 | [0417. Pacific Atlantic Water Flow](https://www.youtube.com/watch?v=s-VkcjHqkGI)                                                                           | x      |            |
 | 0424. Longest Repeating Character Replacement                                                                                                              | x      |            |
-| [0435. Non-overlapping Intervals]                                                                                                                          | x      |            |
+| [0435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)                                                                | x      |            |
 | [0540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)                                                  | x      |            |
 | 0547. Number of Provinces                                                                                                                                  | x      |            |
 | [0567. Permutation in String](https://leetcode.com/problems/permutation-in-string/)                                                                        | x      |            |
@@ -99,6 +99,7 @@ Total: 96
 | [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)                                                          | x      |            |
 | [1335. Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/)                                          | x      |            |
 | [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)                                                                                | x      |            |
+| [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)                                                            | x      |            |
 | [1626. Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/)                                                            | x      |            |
 | 1770. Maximum Score from Performing Multiplication Operations                                                                                              | x      | x          |
 | 1971. Find If Path Exists in Graph                                                                                                                         | x      | x          |

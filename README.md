@@ -2,7 +2,7 @@
 
 My leetcode solutions.
 
-Total: 97
+Total: 98
 
 | Completed                                                                                                                                                  | Python | JavaScript |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -66,6 +66,7 @@ Total: 97
 | [0235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)                      | x      | x          |
 | [0238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)                                                          | x      | x          |
 | 0242. Valid Anagram                                                                                                                                        |        | x          |
+| [252. Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)                                                                                         | x      |            |
 | [0261. Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/)                                                                                  | x      |            |
 | [0271. Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)                                                                | x      | x          |
 | [0295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)                                                          | x      |            |

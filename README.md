@@ -2,7 +2,7 @@
 
 My leetcode solutions.
 
-Total: 99
+Total: 100
 
 | Completed                                                                                                                                                  | Python | JavaScript |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -22,6 +22,7 @@ Total: 99
 | [0035. Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                                                      | x      |            |
 | [0039. Combination Sum](https://leetcode.com/problems/combination-sum/)                                                                                    | x      |            |
 | [0045. Jump Game II](https://leetcode.com/problems/jump-game-ii/)                                                                                          | x      |            |
+| [0048. Rotate Image](https://leetcode.com/problems/rotate-image/)                                                                                          | x      |            |
 | 0049. Group Anagram                                                                                                                                        |        | x          |
 | [0053. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                                                  |        | x          |
 | [0055. Jump Game](https://leetcode.com/problems/jump-game/)                                                                                                | x      |            |

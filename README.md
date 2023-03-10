@@ -2,7 +2,7 @@
 
 My leetcode solutions.
 
-Total: 101
+Total: 103
 
 | Completed                                                                                                                                                  | Python | JavaScript |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -25,6 +25,7 @@ Total: 101
 | [0048. Rotate Image](https://leetcode.com/problems/rotate-image/)                                                                                          | x      |            |
 | 0049. Group Anagram                                                                                                                                        |        | x          |
 | [0053. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                                                  |        | x          |
+| [0054. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)                                                                                        | x      |            |
 | [0055. Jump Game](https://leetcode.com/problems/jump-game/)                                                                                                | x      |            |
 | [0056. Merge Intervals](https://leetcode.com/problems/merge-intervals/)                                                                                    | x      |            |
 | 0056. Merge Intervals                                                                                                                                      |        | x          |
@@ -76,6 +77,7 @@ Total: 101
 | 0326. Power of Three                                                                                                                                       | x      |            |
 | [0322. Coin Change](https://leetcode.com/problems/coin-change)                                                                                             | x      |            |
 | [0323. Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)        | x      |            |
+| [382. Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)                                                                     | x      |            |
 | 0346. Moving Average from Data Stream                                                                                                                      |        | x          |
 | [0347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)                                                                    | x      | x          |
 | 0374. Guess Number Higher or Lower                                                                                                                         |        | x          |

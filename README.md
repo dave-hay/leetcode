@@ -2,7 +2,7 @@
 
 My leetcode solutions.
 
-Total: 100
+Total: 101
 
 | Completed                                                                                                                                                  | Python | JavaScript |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -48,6 +48,7 @@ Total: 100
 | [0133. Clone Graph](https://leetcode.com/problems/clone-graph/solution/)                                                                                   | x      | x          |
 | [0139. Word Break](https://leetcode.com/problems/word-break/)                                                                                              | x      |            |
 | 0141. Linked List Cycle                                                                                                                                    |        | x          |
+| [0142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)                                                                          | x      |            |
 | [143. Reorder List](https://leetcode.com/problems/reorder-list/)                                                                                           | x      |            |
 | [0152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)                                                                  | x      |            |
 | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)                                           | x      |            |

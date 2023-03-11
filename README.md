@@ -49,7 +49,7 @@ Total: 104
 | [0128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)                                                          | x      | x          |
 | [0133. Clone Graph](https://leetcode.com/problems/clone-graph/solution/)                                                                                   | x      | x          |
 | [0139. Word Break](https://leetcode.com/problems/word-break/)                                                                                              | x      |            |
-| 0141. Linked List Cycle                                                                                                                                    |        | x          |
+| [0141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                                                                |        | x          |
 | [0142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)                                                                          | x      |            |
 | [143. Reorder List](https://leetcode.com/problems/reorder-list/)                                                                                           | x      |            |
 | [0152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)                                                                  | x      |            |

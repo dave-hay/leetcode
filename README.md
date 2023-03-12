@@ -2,7 +2,7 @@
 
 My leetcode solutions.
 
-Total: 104
+Total: 105
 
 | Completed                                                                                                                                                  | Python | JavaScript |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -17,6 +17,7 @@ Total: 104
 | [0019. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)                                                  | x      |            |
 | [0020. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                                                                | x      | x          |
 | 0021. Merge Two Sorted Lists                                                                                                                               | x      | x          |
+| [0023. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)                                                                          | x      |            |
 | [0028. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)              | x      |            |
 | [0033. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)                                                      | x      |            |
 | [0035. Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                                                      | x      |            |

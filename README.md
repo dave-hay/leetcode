@@ -42,7 +42,7 @@ Total: 107
 | [0104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                                                           | x      | x          |
 | [0105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | x      |            |
 | [0109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)                                 | x      |            |
-| [0110. Balanced Binary Tree]()                                                                                                                              | x      |            |
+| [0110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)                                                                           | x      |            |
 | 0116. Populating Next Right Pointers in Each Node                                                                                                           | x      |            |
 | [0121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                                                     | x      | x          |
 | 0125. Valid Palindrome                                                                                                                                      |        | x          |

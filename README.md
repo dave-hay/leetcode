@@ -1,8 +1,6 @@
-# Leetcode Solutionhttps://leetcode.com/problems/spiral-matrix/s
+# Leetcode Solutions
 
-My leetcode solutions.
-
-Total: 105
+Total: 106
 
 | Completed                                                                                                                                                  | Python | JavaScript |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -87,6 +85,7 @@ Total: 105
 | 0424. Longest Repeating Character Replacement                                                                                                              | x      |            |
 | [0435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)                                                                | x      |            |
 | [0540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)                                                  | x      |            |
+| [0543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)                                                                    | x      |            |
 | 0547. Number of Provinces                                                                                                                                  | x      |            |
 | [0567. Permutation in String](https://leetcode.com/problems/permutation-in-string/)                                                                        | x      |            |
 | [0572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)                                                                    | x      |            |

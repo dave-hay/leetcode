@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 108
+Total: 109
 
 | Completed                                                                                                                                                   | Python | JavaScript |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -38,6 +38,7 @@ Total: 108
 | 0094. Binary Tree Inorder Traversal                                                                                                                         |        | x          |
 | [0098. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)                                                             | x      |            |
 | [0100. Same Tree](https://leetcode.com/problems/same-tree/)                                                                                                 | x      |            |
+| [0101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)                                                                                       | x      |            |
 | [0102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)                                                 | x      | x          |
 | [0103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)                                   | x      |            |
 | [0104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                                                           | x      | x          |

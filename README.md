@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 107
+Total: 108
 
 | Completed                                                                                                                                                   | Python | JavaScript |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -32,6 +32,7 @@ Total: 107
 | [0062. Unique Paths](https://leetcode.com/problems/unique-paths/)                                                                                           | x      |            |
 | 0069. Sqrt(x)                                                                                                                                               | x      | x          |
 | 0070. Climbing Stairs                                                                                                                                       |        | x          |
+| [0076. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)                                                                   | x      |            |
 | [0079. Word Search](https://leetcode.com/problems/word-search/)                                                                                             | x      |            |
 | [0091. Decode Ways](https://leetcode.com/problems/decode-ways/)                                                                                             | x      |            |
 | 0094. Binary Tree Inorder Traversal                                                                                                                         |        | x          |
@@ -102,7 +103,7 @@ Total: 107
 | [0953. Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)                                                         | x      |            |
 | 0992. Subarray With K Different Integers                                                                                                                    |        | x          |
 | [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)                                               | x      |            |
-| [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)                                                               | X      |            |
+| [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)                                                               | x      |            |
 | [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)                                                                       | x      |            |
 | [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)                                                           | x      |            |
 | [1335. Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/)                                           | x      |            |

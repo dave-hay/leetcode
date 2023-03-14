@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 111
+Total: 112
 
 | Completed                                                                                                                                                   | Python | JavaScript |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -47,6 +47,7 @@ Total: 111
 | [0110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)                                                                           | x      |            |
 | 0116. Populating Next Right Pointers in Each Node                                                                                                           | x      |            |
 | [0121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                                                     | x      | x          |
+| [0124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)                                                           | x      |            |
 | 0125. Valid Palindrome                                                                                                                                      |        | x          |
 | [0128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)                                                           | x      | x          |
 | [0129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)                                                                   | x      |            |

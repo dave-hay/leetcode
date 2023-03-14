@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 109
+Total: 110
 
 | Completed                                                                                                                                                   | Python | JavaScript |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -96,6 +96,7 @@ Total: 109
 | [0647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)                                                                       | x      |            |
 | 0704. Binary Search                                                                                                                                         |        | x          |
 | 0733. Flood Fill                                                                                                                                            |        | x          |
+| [0740. Delete and Earn](https://leetcode.com/problems/delete-and-earn/)                                                                                     | x      |            |
 | [0783. Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)                                               | x      |            |
 | 0797. All Paths From Source to Target                                                                                                                       | x      | x          |
 | 0804. Unique Morse Code Words                                                                                                                               |        | x          |

@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 113
+Total: 114
 
 | Completed                                                                                                                                                   | Python | JavaScript |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -106,6 +106,7 @@ Total: 113
 | [0875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)                                                                             | x      |            |
 | [0904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)                                                                               | x      |            |
 | [0953. Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)                                                         | x      |            |
+| [0958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)                                             | x      |            |
 | 0992. Subarray With K Different Integers                                                                                                                    |        | x          |
 | [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)                                               | x      |            |
 | [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)                                                               | x      |            |

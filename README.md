@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 112
+Total: 113
 
 | Completed                                                                                                                                                   | Python | JavaScript |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -66,6 +66,7 @@ Total: 112
 | [0207. Course Schedule](https://leetcode.com/problems/course-schedule/)                                                                                     | x      |            |
 | [0208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)                                                             | x      |            |
 | [0211. Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)                               | x      |            |
+| [212. Word Search II]()                                                                                                                                     | x      |            |
 | [0213. House Robber II](https://leetcode.com/problems/house-robber-ii/)                                                                                     | x      |            |
 | 0215. Kth Largest Element in an Array                                                                                                                       | x      |            |
 | 0217. Contains Duplicate                                                                                                                                    |        | x          |
@@ -74,7 +75,7 @@ Total: 112
 | [0235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)                       | x      | x          |
 | [0238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)                                                           | x      | x          |
 | 0242. Valid Anagram                                                                                                                                         |        | x          |
-| [252. Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)                                                                                          | x      |            |
+| [0252. Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)                                                                                         | x      |            |
 | [0253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)                                                                                   | x      |            |
 | [0261. Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/)                                                                                   | x      |            |
 | [0271. Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)                                                                 | x      | x          |

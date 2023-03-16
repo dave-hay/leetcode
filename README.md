@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 114
+Total: 115
 
 | Completed                                                                                                                                                   | Python | JavaScript |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -78,6 +78,7 @@ Total: 114
 | [0252. Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)                                                                                         | x      |            |
 | [0253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)                                                                                   | x      |            |
 | [0261. Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/)                                                                                   | x      |            |
+| [0269. Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)                                                                                   | x      |            |
 | [0271. Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)                                                                 | x      | x          |
 | [0295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)                                                           | x      |            |
 | 0326. Power of Three                                                                                                                                        | x      |            |

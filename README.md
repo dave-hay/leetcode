@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 116
+Total: 117
 
 | Completed                                                                                                                                                     | Python | JavaScript |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -82,6 +82,7 @@ Total: 116
 | [0269. Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)                                                                                     | x      |            |
 | [0271. Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)                                                                   | x      | x          |
 | [0295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)                                                             | x      |            |
+| [0300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)                                                         | x      |            |
 | 0326. Power of Three                                                                                                                                          | x      |            |
 | [0322. Coin Change](https://leetcode.com/problems/coin-change)                                                                                                | x      |            |
 | [0323. Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)           | x      |            |

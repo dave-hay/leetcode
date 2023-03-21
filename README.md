@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 118
+Total: 119
 
 | Completed                                                                                                                                                     | Python | JavaScript |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -122,3 +122,4 @@ Total: 118
 | [1626. Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/)                                                               | x      |            |
 | 1770. Maximum Score from Performing Multiplication Operations                                                                                                 | x      | x          |
 | 1971. Find If Path Exists in Graph                                                                                                                            | x      | x          |
+| [2348. Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/)                                                       | x      |            |

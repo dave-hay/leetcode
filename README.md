@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 119
+Total: 120
 
 | Completed                                                                                                                                                     | Python | JavaScript |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -32,6 +32,7 @@ Total: 119
 | [0062. Unique Paths](https://leetcode.com/problems/unique-paths/)                                                                                             | x      |            |
 | 0069. Sqrt(x)                                                                                                                                                 | x      | x          |
 | 0070. Climbing Stairs                                                                                                                                         |        | x          |
+| [0073. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)                                                                                   | x      |            |
 | [0076. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)                                                                     | x      |            |
 | [0079. Word Search](https://leetcode.com/problems/word-search/)                                                                                               | x      |            |
 | [0091. Decode Ways](https://leetcode.com/problems/decode-ways/)                                                                                               | x      |            |

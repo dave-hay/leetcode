@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 121
+Total: 122
 
 | Completed                                                                                                                                                     | Python | JavaScript |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -82,6 +82,7 @@ Total: 121
 | [0261. Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/)                                                                                     | x      |            |
 | [0269. Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)                                                                                     | x      |            |
 | [0271. Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)                                                                   | x      | x          |
+| [0297. Serialize and Deserialize Binary Tree]()                                                                                                               | x      |            |
 | [0295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)                                                             | x      |            |
 | [0300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)                                                         | x      |            |
 | 0326. Power of Three                                                                                                                                          | x      |            |

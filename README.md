@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 122
+Total: 123
 
 | Completed                                                                                                                                                     | Python | JavaScript |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -118,6 +118,7 @@ Total: 122
 | [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)                                                                 | x      |            |
 | [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)                                                                         | x      |            |
 | [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)                                                             | x      |            |
+| [1319. Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)                         | x      |            |
 | [1335. Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/)                                             | x      |            |
 | [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)                                                                                   | x      |            |
 | [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)                                                               | x      |            |

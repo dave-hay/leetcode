@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 124
+Total: 125
 
 | Completed                                                                                                                                                     | Python | JavaScript |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -62,8 +62,9 @@ Total: 124
 | [0153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)                                             | x      |            |
 | [0167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)                                                   | x      |            |
 | [0169. Majority Element](https://leetcode.com/problems/majority-element/)                                                                                     |        | x          |
+| [0191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)                                                                                     | x      |            |
 | 0198. House Robber                                                                                                                                            |        | x          |
-| [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)                                                                                    | x      |            |
+| [0200. Number of Islands](https://leetcode.com/problems/number-of-islands/)                                                                                   | x      |            |
 | 0206. Reverse Linked List                                                                                                                                     |        | x          |
 | [0207. Course Schedule](https://leetcode.com/problems/course-schedule/)                                                                                       | x      |            |
 | [0208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)                                                               | x      |            |

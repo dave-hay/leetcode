@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 126
+Total: 127
 
 | Completed                                                                                                                                                     | Python | JavaScript |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -106,6 +106,7 @@ Total: 126
 | 0622. Design Circular Queue                                                                                                                                   |        | x          |
 | [0647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)                                                                         | x      |            |
 | 0704. Binary Search                                                                                                                                           |        | x          |
+| [0703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)                                                       | x      |            |
 | 0733. Flood Fill                                                                                                                                              |        | x          |
 | [0740. Delete and Earn](https://leetcode.com/problems/delete-and-earn/)                                                                                       | x      |            |
 | [0783. Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)                                                 | x      |            |

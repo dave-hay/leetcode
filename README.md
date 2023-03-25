@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 125
+Total: 126
 
 | Completed                                                                                                                                                     | Python | JavaScript |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -89,10 +89,11 @@ Total: 125
 | 0326. Power of Three                                                                                                                                          | x      |            |
 | [0322. Coin Change](https://leetcode.com/problems/coin-change)                                                                                                | x      |            |
 | [0323. Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)           | x      |            |
-| [382. Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)                                                                        | x      |            |
+| [0338. Counting Bits](https://leetcode.com/problems/counting-bits/)                                                                                           | x      |            |
 | 0346. Moving Average from Data Stream                                                                                                                         |        | x          |
 | [0347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)                                                                       | x      | x          |
 | 0374. Guess Number Higher or Lower                                                                                                                            |        | x          |
+| [0382. Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)                                                                       | x      |            |
 | [0417. Pacific Atlantic Water Flow](https://www.youtube.com/watch?v=s-VkcjHqkGI)                                                                              | x      |            |
 | 0424. Longest Repeating Character Replacement                                                                                                                 | x      |            |
 | [0435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)                                                                   | x      |            |

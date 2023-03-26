@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 127
+Total: 128
 
 | Completed                                                                                                                                                     | Python | JavaScript |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -62,6 +62,7 @@ Total: 127
 | [0153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)                                             | x      |            |
 | [0167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)                                                   | x      |            |
 | [0169. Majority Element](https://leetcode.com/problems/majority-element/)                                                                                     |        | x          |
+| [0190. Reverse Bits](https://leetcode.com/problems/reverse-bits/)                                                                                             | x      |            |
 | [0191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)                                                                                     | x      |            |
 | 0198. House Robber                                                                                                                                            |        | x          |
 | [0200. Number of Islands](https://leetcode.com/problems/number-of-islands/)                                                                                   | x      |            |

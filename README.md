@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 128
+Total: 130
 
 | Completed                                                                                                                                                     | Python | JavaScript |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -94,6 +94,7 @@ Total: 128
 | [0338. Counting Bits](https://leetcode.com/problems/counting-bits/)                                                                                           | x      |            |
 | 0346. Moving Average from Data Stream                                                                                                                         |        | x          |
 | [0347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)                                                                       | x      | x          |
+| [0371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)                                                                               | x      |            |
 | 0374. Guess Number Higher or Lower                                                                                                                            |        | x          |
 | [0382. Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)                                                                       | x      |            |
 | [0417. Pacific Atlantic Water Flow](https://www.youtube.com/watch?v=s-VkcjHqkGI)                                                                              | x      |            |

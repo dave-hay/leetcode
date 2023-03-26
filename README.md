@@ -82,6 +82,7 @@ Total: 128
 | [0252. Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)                                                                                           | x      |            |
 | [0253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)                                                                                     | x      |            |
 | [0261. Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/)                                                                                     | x      |            |
+| [0268. Missing Number](https://leetcode.com/problems/missing-number/)                                                                                         | x      |            |
 | [0269. Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)                                                                                     | x      |            |
 | [0271. Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)                                                                   | x      | x          |
 | [0297. Serialize and Deserialize Binary Tree]()                                                                                                               | x      |            |

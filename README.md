@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 130
+Total: 131
 
 | Completed                                                                                                                                                     | Python | JavaScript |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -133,4 +133,5 @@ Total: 130
 | 1770. Maximum Score from Performing Multiplication Operations                                                                                                 | x      | x          |
 | 1971. Find If Path Exists in Graph                                                                                                                            | x      | x          |
 | [2348. Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/)                                                       | x      |            |
+| [2360. Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/)                                                                     | x      |            |
 | [2492. Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/)                                 | x      |            |

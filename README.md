@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 132
+Total: 133
 
 | Completed                                                                                                                                                     | Python | JavaScript |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -31,6 +31,7 @@ Total: 132
 | 0056. Merge Intervals                                                                                                                                         |        | x          |
 | [0057. Insert Interval](https://leetcode.com/problems/insert-interval/)                                                                                       | x      | x          |
 | [0062. Unique Paths](https://leetcode.com/problems/unique-paths/)                                                                                             | x      |            |
+| [0064. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)                                                                                     | x      |            |
 | 0069. Sqrt(x)                                                                                                                                                 | x      | x          |
 | 0070. Climbing Stairs                                                                                                                                         |        | x          |
 | [0073. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)                                                                                   | x      |            |

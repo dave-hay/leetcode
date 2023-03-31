@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 133
+Total: 134
 
 | Completed                                                                                                                                                     | Python | JavaScript |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -113,6 +113,7 @@ Total: 133
 | 0704. Binary Search                                                                                                                                           |        | x          |
 | [0703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)                                                       | x      |            |
 | 0733. Flood Fill                                                                                                                                              |        | x          |
+| [0739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)                                                                                 | x      |            |
 | [0740. Delete and Earn](https://leetcode.com/problems/delete-and-earn/)                                                                                       | x      |            |
 | [0783. Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)                                                 | x      |            |
 | 0797. All Paths From Source to Target                                                                                                                         | x      | x          |

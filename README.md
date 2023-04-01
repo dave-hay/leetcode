@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 135
+Total: 136
 
 | Completed                                                                                                                                                     | Python | JavaScript |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -20,6 +20,7 @@ Total: 135
 | [0028. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)                 | x      |            |
 | [0033. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)                                                         | x      |            |
 | [0035. Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                                                         | x      |            |
+| [0036. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                                                                                             | x      |            |
 | [0039. Combination Sum](https://leetcode.com/problems/combination-sum/)                                                                                       | x      |            |
 | [0045. Jump Game II](https://leetcode.com/problems/jump-game-ii/)                                                                                             | x      |            |
 | [0048. Rotate Image](https://leetcode.com/problems/rotate-image/)                                                                                             | x      |            |

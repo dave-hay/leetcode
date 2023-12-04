@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 138
+Total: 139
 
 | Completed                                                                                                                                                     | Python | JavaScript |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -113,6 +113,7 @@ Total: 138
 | 0622. Design Circular Queue                                                                                                                                   |        | x          |
 | [0647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)                                                                         | x      |            |
 | [0651. 4 Keys Keyboard](https://leetcode.com/problems/4-keys-keyboard/solution/)                                                                              | x      |            |
+| [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)                                                                                | x      |            |
 | 0704. Binary Search                                                                                                                                           |        | x          |
 | [0703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)                                                       | x      |            |
 | 0733. Flood Fill                                                                                                                                              |        | x          |

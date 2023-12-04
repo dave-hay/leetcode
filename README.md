@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 137
+Total: 138
 
 | Completed                                                                                                                                                     | Python | JavaScript |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -130,6 +130,7 @@ Total: 137
 | [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)                                                                 | x      |            |
 | [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)                                                                         | x      |            |
 | [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)                                                             | x      |            |
+| [1249. Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)                                     | x      |            |
 | [1319. Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)                         | x      |            |
 | [1335. Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/)                                             | x      |            |
 | [1466. Reorder Routes to Make All Paths Lead to the City Zero]()                                                                                              | x      |            |

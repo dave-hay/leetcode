@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 139
+Total: 141
 
 | Completed                                                                                                                                                     | Python | JavaScript |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -114,6 +114,7 @@ Total: 139
 | [0647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)                                                                         | x      |            |
 | [0651. 4 Keys Keyboard](https://leetcode.com/problems/4-keys-keyboard/solution/)                                                                              | x      |            |
 | [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)                                                                                | x      |            |
+| [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)                                                                              | x      |            |
 | 0704. Binary Search                                                                                                                                           |        | x          |
 | [0703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)                                                       | x      |            |
 | 0733. Flood Fill                                                                                                                                              |        | x          |
@@ -138,6 +139,7 @@ Total: 139
 | [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)                                                                                   | x      |            |
 | [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)                                                               | x      |            |
 | [1626. Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/)                                                               | x      |            |
+| [1688. Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/)                                                         | x      |            |
 | 1770. Maximum Score from Performing Multiplication Operations                                                                                                 | x      | x          |
 | 1971. Find If Path Exists in Graph                                                                                                                            | x      | x          |
 | [2348. Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/)                                                       | x      |            |

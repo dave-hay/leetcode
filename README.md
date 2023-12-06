@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 141
+Total: 143
 
 | Completed                                                                                                                                                     | Python | JavaScript |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -121,10 +121,12 @@ Total: 141
 | [0739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)                                                                                 | x      |            |
 | [0740. Delete and Earn](https://leetcode.com/problems/delete-and-earn/)                                                                                       | x      |            |
 | [0783. Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)                                                 | x      |            |
+| [791. Custom Sort String](https://leetcode.com/problems/custom-sort-string/)                                                                                  | x      |            |
 | 0797. All Paths From Source to Target                                                                                                                         | x      | x          |
 | 0804. Unique Morse Code Words                                                                                                                                 |        | x          |
 | [0875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)                                                                               | x      |            |
 | [0904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)                                                                                 | x      |            |
+| [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)                                                                                      | x      |            |
 | [0953. Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)                                                           | x      |            |
 | [0958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)                                               | x      |            |
 | 0992. Subarray With K Different Integers                                                                                                                      |        | x          |

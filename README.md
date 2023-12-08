@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 143
+Total: 144
 
 | Completed                                                                                                                                                     | Python | JavaScript |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -110,6 +110,7 @@ Total: 143
 | [0567. Permutation in String](https://leetcode.com/problems/permutation-in-string/)                                                                           | x      |            |
 | [0572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)                                                                       | x      |            |
 | [0605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)                                                                                   | x      |            |
+| [606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)                                                    | x }    |
 | 0622. Design Circular Queue                                                                                                                                   |        | x          |
 | [0647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)                                                                         | x      |            |
 | [0651. 4 Keys Keyboard](https://leetcode.com/problems/4-keys-keyboard/solution/)                                                                              | x      |            |

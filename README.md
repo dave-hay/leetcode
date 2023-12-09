@@ -101,6 +101,7 @@ Total: 144
 | [0371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)                                                                               | x      |            |
 | 0374. Guess Number Higher or Lower                                                                                                                            |        | x          |
 | [0382. Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)                                                                       | x      |            |
+| [408. Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation/)                                                                        | x      |            |
 | [0417. Pacific Atlantic Water Flow](https://www.youtube.com/watch?v=s-VkcjHqkGI)                                                                              | x      |            |
 | 0424. Longest Repeating Character Replacement                                                                                                                 | x      |            |
 | [0435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)                                                                   | x      |            |
@@ -114,8 +115,8 @@ Total: 144
 | 0622. Design Circular Queue                                                                                                                                   |        | x          |
 | [0647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)                                                                         | x      |            |
 | [0651. 4 Keys Keyboard](https://leetcode.com/problems/4-keys-keyboard/solution/)                                                                              | x      |            |
-| [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)                                                                                | x      |            |
-| [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)                                                                              | x      |            |
+| [0680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)                                                                               | x      |            |
+| [0692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)                                                                             | x      |            |
 | 0704. Binary Search                                                                                                                                           |        | x          |
 | [0703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)                                                       | x      |            |
 | 0733. Flood Fill                                                                                                                                              |        | x          |

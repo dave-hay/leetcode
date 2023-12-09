@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 144
+Total: 147
 
 | Completed                                                                                                                                                     | Python | JavaScript |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -113,26 +113,27 @@ Total: 144
 | [0572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)                                                                       | x      |            |
 | [0605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)                                                                                   | x      |            |
 | [606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)                                                    | x }    |
-| 0622. Design Circular Queue                                                                                                                                   |        | x          |
+| [0622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)                                                                           |        | x          |
 | [0647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)                                                                         | x      |            |
 | [0651. 4 Keys Keyboard](https://leetcode.com/problems/4-keys-keyboard/solution/)                                                                              | x      |            |
 | [0680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)                                                                               | x      |            |
 | [0692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)                                                                             | x      |            |
-| 0704. Binary Search                                                                                                                                           |        | x          |
+| [0704. Binary Search](https://leetcode.com/problems/binary-search/)                                                                                           |        | x          |
 | [0703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)                                                       | x      |            |
-| 0733. Flood Fill                                                                                                                                              |        | x          |
+| [0733. Flood Fill](https://leetcode.com/problems/flood-fill/)                                                                                                 |        | x          |
 | [0739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)                                                                                 | x      |            |
 | [0740. Delete and Earn](https://leetcode.com/problems/delete-and-earn/)                                                                                       | x      |            |
 | [0783. Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)                                                 | x      |            |
-| [791. Custom Sort String](https://leetcode.com/problems/custom-sort-string/)                                                                                  | x      |            |
-| 0797. All Paths From Source to Target                                                                                                                         | x      | x          |
-| 0804. Unique Morse Code Words                                                                                                                                 |        | x          |
+| [0791. Custom Sort String](https://leetcode.com/problems/custom-sort-string/)                                                                                 | x      |            |
+| [0797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)                                                       | x      | x          |
+| [0804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)                                                                       |        | x          |
 | [0875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)                                                                               | x      |            |
 | [0904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)                                                                                 | x      |            |
-| [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)                                                                                      | x      |            |
+| [0938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)                                                                                     | x      |            |
 | [0953. Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)                                                           | x      |            |
 | [0958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)                                               | x      |            |
-| 0992. Subarray With K Different Integers                                                                                                                      |        | x          |
+| [0973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)                                                                 | x      |            |
+| [0992. Subarray With K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/)                                                |        | x          |
 | [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)                                                 | x      |            |
 | [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)                                                                 | x      |            |
 | [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)                                                                         | x      |            |
@@ -145,8 +146,8 @@ Total: 144
 | [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)                                                               | x      |            |
 | [1626. Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/)                                                               | x      |            |
 | [1688. Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/)                                                         | x      |            |
-| 1770. Maximum Score from Performing Multiplication Operations                                                                                                 | x      | x          |
-| 1971. Find If Path Exists in Graph                                                                                                                            | x      | x          |
+| [1770. Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/)       | x      | x          |
+| [1971. Find If Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/)                                                             | x      | x          |
 | [2348. Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/)                                                       | x      |            |
 | [2360. Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/)                                                                     | x      |            |
 | [2492. Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/)                                 | x      |            |

@@ -26,6 +26,7 @@ Total: 144
 | [0045. Jump Game II](https://leetcode.com/problems/jump-game-ii/)                                                                                             | x      |            |
 | [0048. Rotate Image](https://leetcode.com/problems/rotate-image/)                                                                                             | x      |            |
 | [0049. Group Anagram](https://leetcode.com/problems/group-anagrams/)                                                                                          | x      | x          |
+| [0050. Pow(x, n)](https://leetcode.com/problems/powx-n/)                                                                                                      | x      |            |
 | [0053. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                                                     | x      | x          |
 | [0054. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)                                                                                           | x      |            |
 | [0055. Jump Game](https://leetcode.com/problems/jump-game/)                                                                                                   | x      |            |

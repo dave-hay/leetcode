@@ -93,9 +93,10 @@ Total: 149
 | [0297. Serialize and Deserialize Binary Tree]()                                                                                                               | x      |            |
 | [0295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)                                                             | x      |            |
 | [0300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)                                                         | x      |            |
-| 0326. Power of Three                                                                                                                                          | x      |            |
+| [0314. Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/)                                             | x      |            |
 | [0322. Coin Change](https://leetcode.com/problems/coin-change)                                                                                                | x      |            |
 | [0323. Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)           | x      |            |
+| 0326. Power of Three                                                                                                                                          | x      |            |
 | [0338. Counting Bits](https://leetcode.com/problems/counting-bits/)                                                                                           | x      |            |
 | [339. Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/)                                                                          | x      |            |
 | 0346. Moving Average from Data Stream                                                                                                                         |        | x          |

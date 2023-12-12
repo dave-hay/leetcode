@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 148
+Total: 149
 
 | Completed                                                                                                                                                     | Python | JavaScript |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -97,6 +97,7 @@ Total: 148
 | [0322. Coin Change](https://leetcode.com/problems/coin-change)                                                                                                | x      |            |
 | [0323. Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)           | x      |            |
 | [0338. Counting Bits](https://leetcode.com/problems/counting-bits/)                                                                                           | x      |            |
+| [339. Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/)                                                                          | x      |            |
 | 0346. Moving Average from Data Stream                                                                                                                         |        | x          |
 | [0347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)                                                                       | x      | x          |
 | [0371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)                                                                               | x      |            |
@@ -112,7 +113,7 @@ Total: 148
 | [0567. Permutation in String](https://leetcode.com/problems/permutation-in-string/)                                                                           | x      |            |
 | [0572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)                                                                       | x      |            |
 | [0605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)                                                                                   | x      |            |
-| [606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)                                                    | x }    |
+| [606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)                                                    | x      |            |
 | [0622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)                                                                           |        | x          |
 | [0647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)                                                                         | x      |            |
 | [0651. 4 Keys Keyboard](https://leetcode.com/problems/4-keys-keyboard/solution/)                                                                              | x      |            |

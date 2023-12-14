@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 149
+Total: 150
 
 | Completed                                                                                                                                                     | Python | JavaScript |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -112,14 +112,14 @@ Total: 149
 | [0567. Permutation in String](https://leetcode.com/problems/permutation-in-string/)                                                                           | x      |            |
 | [0572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)                                                                       | x      |            |
 | [0605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)                                                                                   | x      |            |
-| [606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)                                                    | x      |            |
+| [0606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)                                                   | x      |            |
 | [0622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)                                                                           |        | x          |
 | [0647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)                                                                         | x      |            |
 | [0651. 4 Keys Keyboard](https://leetcode.com/problems/4-keys-keyboard/solution/)                                                                              | x      |            |
 | [0680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)                                                                               | x      |            |
 | [0692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)                                                                             | x      |            |
-| [0704. Binary Search](https://leetcode.com/problems/binary-search/)                                                                                           |        | x          |
 | [0703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)                                                       | x      |            |
+| [0704. Binary Search](https://leetcode.com/problems/binary-search/)                                                                                           |        | x          |
 | [0733. Flood Fill](https://leetcode.com/problems/flood-fill/)                                                                                                 |        | x          |
 | [0739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)                                                                                 | x      |            |
 | [0740. Delete and Earn](https://leetcode.com/problems/delete-and-earn/)                                                                                       | x      |            |
@@ -135,8 +135,9 @@ Total: 149
 | [0973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)                                                                 | x      |            |
 | [0992. Subarray With K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/)                                                |        | x          |
 | [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)                                                 | x      |            |
-| [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)                                                                 | x      |            |
+| [1120. Maximum Average Subtree](https://leetcode.com/problems/maximum-average-subtree/)                                                                       | x      |            |
 | [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)                                                                         | x      |            |
+| [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)                                                                 | x      |            |
 | [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)                                                             | x      |            |
 | [1249. Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)                                     | x      |            |
 | [1319. Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)                         | x      |            |

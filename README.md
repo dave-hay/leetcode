@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 152
+Total: 153
 
 | Completed                                                                                                                                                     | Python | JavaScript |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -155,3 +155,4 @@ Total: 152
 | [2360. Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/)                                                                     | x      |            |
 | [2482. Difference Between Ones and Zeros in Row and Column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/)               | x      |            |
 | [2492. Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/)                                 | x      |            |
+| [2706. Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/)                                                                                 | x      |            |

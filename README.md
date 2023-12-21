@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 154
+Total: 155
 
 | Completed                                                                                                                                                         | Python | JavaScript |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -23,6 +23,7 @@ Total: 154
 | [0035. Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                                                             | x      |            |
 | [0036. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                                                                                                 | x      |            |
 | [0039. Combination Sum](https://leetcode.com/problems/combination-sum/)                                                                                           | x      |            |
+| [0042. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)                                                                                   | x      |            |
 | [0045. Jump Game II](https://leetcode.com/problems/jump-game-ii/)                                                                                                 | x      |            |
 | [0048. Rotate Image](https://leetcode.com/problems/rotate-image/)                                                                                                 | x      |            |
 | [0049. Group Anagram](https://leetcode.com/problems/group-anagrams/)                                                                                              | x      | x          |

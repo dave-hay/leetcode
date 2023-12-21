@@ -96,13 +96,13 @@ Total: 154
 | [0322. Coin Change](https://leetcode.com/problems/coin-change)                                                                                                    | x      |            |
 | [0323. Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)               | x      |            |
 | [0338. Counting Bits](https://leetcode.com/problems/counting-bits/)                                                                                               | x      |            |
-| [339. Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/)                                                                              | x      |            |
+| [0339. Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/)                                                                             | x      |            |
 | [0346. Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/)                                                           |        | x          |
 | [0347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)                                                                           | x      | x          |
 | [0371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)                                                                                   | x      |            |
 | [0374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)                                                                 |        | x          |
 | [0382. Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)                                                                           | x      |            |
-| [408. Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation/)                                                                            | x      |            |
+| [0408. Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation/)                                                                           | x      |            |
 | [0417. Pacific Atlantic Water Flow](https://www.youtube.com/watch?v=s-VkcjHqkGI)                                                                                  | x      |            |
 | [0424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)                                           | x      |            |
 | [0435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)                                                                       | x      |            |

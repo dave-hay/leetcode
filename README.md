@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 156
+Total: 157
 
 | Completed                                                                                                                                                         | Python | JavaScript |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -148,6 +148,7 @@ Total: 156
 | [1464. Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)                                   | x      |            |
 | [1466. Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/)             | x      |            |
 | [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)                                                                                       | x      |            |
+| [1496. Path Crossing](https://leetcode.com/problems/path-crossing/)                                                                                               | x      |            |
 | [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)                                                                   | x      |            |
 | [1626. Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/)                                                                   | x      |            |
 | [1637. Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/) | x      |            |

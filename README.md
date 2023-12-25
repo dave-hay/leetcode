@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 159
+Total: 160
 
 | Completed                                                                                                                                                         | Python | JavaScript |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -84,6 +84,7 @@ Total: 159
 | [0230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)                                                               | x      |            |
 | [0235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)                             | x      | x          |
 | [0238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)                                                                 | x      | x          |
+| [0239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)                                                                             | x      |            |
 | [0242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                                                               |        | x          |
 | [0252. Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)                                                                                               | x      |            |
 | [0253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)                                                                                         | x      |            |

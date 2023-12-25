@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 160
+Total: 161
 
 | Completed                                                                                                                                                         | Python | JavaScript |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -65,6 +65,7 @@ Total: 160
 | [0143. Reorder List](https://leetcode.com/problems/reorder-list/)                                                                                                 | x      |            |
 | [0152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)                                                                         | x      |            |
 | [0153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)                                                 | x      |            |
+| [0155. Min Stack](https://leetcode.com/problems/min-stack/)                                                                                                       | x      |            |
 | [0159. Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/)             | x      |            |
 | [0167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)                                                       | x      |            |
 | [0169. Majority Element](https://leetcode.com/problems/majority-element/)                                                                                         |        | x          |

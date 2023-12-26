@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 163
+Total: 164
 
 | Completed                                                                                                                                                         | Python | JavaScript |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -9,6 +9,7 @@ Total: 163
 | [0003. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)                             | x      | x          |
 | [0005. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)                                                               | x      |            |
 | [0008. String To Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)                                                                           |        | x          |
+| [0009. Palindrome Number](https://leetcode.com/problems/palindrome-number/)                                                                                       | x      |            |
 | [0011. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)                                                                       | x      | x          |
 | [0013. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                                                                                         | x      |            |
 | [0015. 3Sum](https://leetcode.com/problems/3sum/)                                                                                                                 | x      | x          |

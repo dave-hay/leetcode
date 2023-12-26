@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 161
+Total: 162
 
 | Completed                                                                                                                                                         | Python | JavaScript |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -63,6 +63,7 @@ Total: 161
 | [0141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                                                                       |        | x          |
 | [0142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)                                                                                 | x      |            |
 | [0143. Reorder List](https://leetcode.com/problems/reorder-list/)                                                                                                 | x      |            |
+| [0150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)                                                         | x      |            |
 | [0152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)                                                                         | x      |            |
 | [0153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)                                                 | x      |            |
 | [0155. Min Stack](https://leetcode.com/problems/min-stack/)                                                                                                       | x      |            |

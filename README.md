@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 162
+Total: 163
 
 | Completed                                                                                                                                                         | Python | JavaScript |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -143,6 +143,7 @@ Total: 162
 | [1120. Maximum Average Subtree](https://leetcode.com/problems/maximum-average-subtree/)                                                                           | x      |            |
 | [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)                                                                             | x      |            |
 | [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)                                                                     | x      |            |
+| [1155. Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/)                                                 | x      |            |
 | [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)                                                                 | x      |            |
 | [1249. Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)                                         | x      |            |
 | [1319. Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)                             | x      |            |

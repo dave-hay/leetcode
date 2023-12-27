@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 165
+Total: 166
 
 | Completed                                                                                                                                                         | Python | JavaScript |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -41,6 +41,7 @@ Total: 165
 | [0073. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)                                                                                       | x      |            |
 | [0076. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)                                                                         | x      |            |
 | [0079. Word Search](https://leetcode.com/problems/word-search/)                                                                                                   | x      |            |
+| [0084. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)                                                             | x      |            |
 | [0091. Decode Ways](https://leetcode.com/problems/decode-ways/)                                                                                                   | x      |            |
 | [0094. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)                                                               |        | x          |
 | [0098. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)                                                                   | x      |            |

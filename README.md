@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 166
+Total: 167
 
 | Completed                                                                                                                                                         | Python | JavaScript |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -158,6 +158,7 @@ Total: 166
 | [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)                                                                                       | x      |            |
 | [1496. Path Crossing](https://leetcode.com/problems/path-crossing/)                                                                                               | x      |            |
 | [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)                                                                   | x      |            |
+| [1578. Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/)                                                     | x      |            |
 | [1626. Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/)                                                                   | x      |            |
 | [1637. Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/) | x      |            |
 | [1688. Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/)                                                             | x      |            |

@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 168
+Total: 169
 
 | Completed                                                                                                                                                         | Python | JavaScript |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -39,6 +39,7 @@ Total: 168
 | [0069. Sqrt(x)](https://leetcode.com/problems/sqrtx/)                                                                                                             | x      | x          |
 | [0070. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                                                                           |        | x          |
 | [0073. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)                                                                                       | x      |            |
+| [0074. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)                                                                                     | x      |            |
 | [0076. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)                                                                         | x      |            |
 | [0079. Word Search](https://leetcode.com/problems/word-search/)                                                                                                   | x      |            |
 | [0084. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)                                                             | x      |            |

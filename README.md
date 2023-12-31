@@ -161,6 +161,7 @@ Total: 170
 | [1496. Path Crossing](https://leetcode.com/problems/path-crossing/)                                                                                               | x      |            |
 | [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)                                                                   | x      |            |
 | [1578. Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/)                                                     | x      |            |
+| [1624. Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/)                             | x      |            |
 | [1626. Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/)                                                                   | x      |            |
 | [1637. Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/) | x      |            |
 | [1688. Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/)                                                             | x      |            |

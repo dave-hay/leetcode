@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 173
+Total: 174
 
 | Completed                                                                                                                                                         | Python | JavaScript |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -143,6 +143,7 @@ Total: 173
 | [0953. Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)                                                               | x      |            |
 | [0958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)                                                   | x      |            |
 | [0973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)                                                                     | x      |            |
+| [0981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)                                                                     | x      |            |
 | [0992. Subarray With K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/)                                                    |        | x          |
 | [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)                                                     | x      |            |
 | [1120. Maximum Average Subtree](https://leetcode.com/problems/maximum-average-subtree/)                                                                           | x      |            |

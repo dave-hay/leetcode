@@ -8,7 +8,7 @@ Total: 176
 | [0002. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                                                                           |        | x          |
 | [0003. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)                             | x      | x          |
 | [0005. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)                                                               | x      |            |
-| [0008. String To Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)                                                                           |        | x          |
+| [0008. String To Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)                                                                           | x      | x          |
 | [0009. Palindrome Number](https://leetcode.com/problems/palindrome-number/)                                                                                       | x      |            |
 | [0011. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)                                                                       | x      | x          |
 | [0013. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                                                                                         | x      |            |

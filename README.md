@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 178
+Total: 179
 
 | Completed                                                                                                                                                         | Python | JavaScript |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -20,6 +20,7 @@ Total: 178
 | [0021. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                                                             | x      | x          |
 | [0022. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)                                                                                 | x      |            |
 | [0023. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)                                                                                 | x      |            |
+| [0026. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)                                                   | x      |            |
 | [0028. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)                     | x      |            |
 | [0033. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)                                                             | x      |            |
 | [0035. Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                                                             | x      |            |

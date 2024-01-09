@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 180
+Total: 181
 
 | Completed                                                                                                                                                         | Python | JavaScript |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -142,6 +142,7 @@ Total: 180
 | [0804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)                                                                           |        | x          |
 | [0853. Car Fleet](https://leetcode.com/problems/car-fleet/)                                                                                                       | x      |            |
 | [0875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)                                                                                   | x      |            |
+| [0872. Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)                                                                                     | x      |            |
 | [0904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)                                                                                     | x      |            |
 | [0938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)                                                                                         | x      |            |
 | [0953. Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)                                                               | x      |            |

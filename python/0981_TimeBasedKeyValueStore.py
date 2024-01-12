@@ -1,37 +1,38 @@
 class TimeMap:
     def __init__(self):
-        self.map = {}
+        self.vals = {}
 
     def set(self, key: str, value: str, timestamp: int) -> None:
-        if not key in self.map:
-            self.map[key] = []
+        if key not in self.vals:
+            self.vals[key] = list()
 
-        self.map[key].append((timestamp, value))
+        # can append bc increasing
+        self.vals[key].append((timestamp, value))
 
     def get(self, key: str, timestamp: int) -> str:
-        if not key in self.map:
+        cur = self.vals.get(key, None)
+
+        if not cur or timestamp < cur[0][0]:
             return ""
 
-        arr = self.map[key]
-        if timestamp < arr[0][0]:
-            return ""
-        elif arr[-1][0] < timestamp:
-            return arr[-1][1]
+        # time too large, return largest value
+        if timestamp > cur[-1][0]:
+            return cur[-1][1]
 
-        l, r = 0, len(arr)
+        l, r = 0, len(cur)
+        while l <= r:
+            m = l + (r - l) // 2
+            mid = cur[m]
 
-        while l < r:
-            m = (l + r) // 2
-            mid = arr[m][0]
-            if mid == timestamp:
-                return arr[m][1]
+            if timestamp == mid[0]:
+                return mid[1]
 
-            if mid < timestamp:
+            if timestamp > mid[0]:
                 l = m + 1
             else:
-                r = m
+                r = m - 1
 
-        return "" if r == 0 else arr[r - 1][1]
+        return cur[r][1]
 
 
 # Your TimeMap object will be instantiated and called as such:

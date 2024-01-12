@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 184
+Total: 185
 
 | Completed                                                                                                                                                         | Python | JavaScript |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -175,6 +175,7 @@ Total: 184
 | [1626. Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/)                                                                   | x      |            |
 | [1637. Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/) | x      |            |
 | [1688. Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/)                                                             | x      |            |
+| [1704. Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/)                                                 | x      |            |
 | [1758. Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/)                       | x      |            |
 | [1770. Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/)           | x      | x          |
 | [1897. Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/)                       | x      |            |

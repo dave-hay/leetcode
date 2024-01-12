@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 185
+Total: 186
 
 | Completed                                                                                                                                                         | Python | JavaScript |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -29,6 +29,7 @@ Total: 185
 | [0039. Combination Sum](https://leetcode.com/problems/combination-sum/)                                                                                           | x      |            |
 | [0042. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)                                                                                   | x      |            |
 | [0045. Jump Game II](https://leetcode.com/problems/jump-game-ii/)                                                                                                 | x      |            |
+| [0046. Permutations](https://leetcode.com/problems/permutations/)                                                                                                 | x      |            |
 | [0048. Rotate Image](https://leetcode.com/problems/rotate-image/)                                                                                                 | x      |            |
 | [0049. Group Anagram](https://leetcode.com/problems/group-anagrams/)                                                                                              | x      | x          |
 | [0050. Pow(x, n)](https://leetcode.com/problems/powx-n/)                                                                                                          | x      |            |

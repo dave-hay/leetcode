@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 188
+Total: 189
 
 | Completed                                                                                                                                                         | Python | JavaScript |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -184,6 +184,7 @@ Total: 188
 | [1897. Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/)                       | x      |            |
 | [1971. Find If Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/)                                                                 | x      | x          |
 | [2125. Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/)                                                           | x      |            |
+| [2225. Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/)                                                 | x      |            |
 | [2348. Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/)                                                           | x      |            |
 | [2385. Amount of Time for Binary Tree to Be Infected](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/)                               | x      |            |
 | [2360. Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/)                                                                         | x      |            |

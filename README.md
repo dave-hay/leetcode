@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 189
+Total: 190
 
 | Completed                                                                                                                                                         | Python | JavaScript |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -167,6 +167,7 @@ Total: 189
 | [1347. Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/)                   | x      |            |
 | [1422. Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/)                                             | x      |            |
 | [1436. Destination City](https://leetcode.com/problems/destination-city/)                                                                                         | x      |            |
+| [1448. Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)                                                           | x      |            |
 | [1464. Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)                                   | x      |            |
 | [1466. Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/)             | x      |            |
 | [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)                                                                                       | x      |            |

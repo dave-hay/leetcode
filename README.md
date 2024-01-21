@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 191
+Total: 192
 
 | Completed                                                                                                                                                         | Python | JavaScript |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -67,6 +67,7 @@ Total: 191
 | [0125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                                                                         |        | x          |
 | [0128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)                                                                 | x      | x          |
 | [0129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)                                                                         | x      |            |
+| [0131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)                                                                           | x      |            |
 | [0133. Clone Graph](https://leetcode.com/problems/clone-graph/solution/)                                                                                          | x      | x          |
 | [0139. Word Break](https://leetcode.com/problems/word-break/)                                                                                                     | x      |            |
 | [0141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                                                                       |        | x          |

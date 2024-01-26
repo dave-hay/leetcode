@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 195
+Total: 196
 
 | Completed                                                                                                                                                             | Python | JavaScript |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -128,6 +128,7 @@ Total: 195
 | [0547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/)                                                                                       | x      |            |
 | [0567. Permutation in String](https://leetcode.com/problems/permutation-in-string/)                                                                                   | x      |            |
 | [0572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)                                                                               | x      |            |
+| [0576. Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/)                                                                                   | x      |            |
 | [0605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)                                                                                           | x      |            |
 | [0606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)                                                           | x      |            |
 | [0622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)                                                                                   |        | x          |

@@ -14,4 +14,3 @@ class Solution:
                 dp[i][j] = (prefix_sum[j] - (prefix_sum[j - i] if j >= i else 0)) % MOD
 
         return dp[n][k]
-

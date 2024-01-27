@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 196
+Total: 197
 
 | Completed                                                                                                                                                             | Python | JavaScript |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -132,6 +132,7 @@ Total: 196
 | [0605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)                                                                                           | x      |            |
 | [0606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)                                                           | x      |            |
 | [0622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)                                                                                   |        | x          |
+| [0629. K Inverse Pairs Array](https://leetcode.com/problems/k-inverse-pairs-array/)                                                                                   | x      |            |
 | [0645. Set Mismatch](https://leetcode.com/problems/set-mismatch/)                                                                                                     | x      |            |
 | [0647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)                                                                                 | x      |            |
 | [0651. 4 Keys Keyboard](https://leetcode.com/problems/4-keys-keyboard/solution/)                                                                                      | x      |            |

@@ -70,7 +70,7 @@ Total: 198
 | [0131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)                                                                               | x      |            |
 | [0133. Clone Graph](https://leetcode.com/problems/clone-graph/solution/)                                                                                              | x      | x          |
 | [0139. Word Break](https://leetcode.com/problems/word-break/)                                                                                                         | x      |            |
-| [0141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                                                                           |        | x          |
+| [0141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                                                                           | x      | x          |
 | [0142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)                                                                                     | x      |            |
 | [0143. Reorder List](https://leetcode.com/problems/reorder-list/)                                                                                                     | x      |            |
 | [0150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)                                                             | x      |            |

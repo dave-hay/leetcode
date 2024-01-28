@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 197
+Total: 198
 
 | Completed                                                                                                                                                             | Python | JavaScript |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -160,6 +160,7 @@ Total: 197
 | [0992. Subarray With K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/)                                                        |        | x          |
 | [1026. Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)                                     | x      |            |
 | [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)                                                         | x      |            |
+| [1074. Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)                                             | x      |            |
 | [1120. Maximum Average Subtree](https://leetcode.com/problems/maximum-average-subtree/)                                                                               | x      |            |
 | [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)                                                                                 | x      |            |
 | [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)                                                                         | x      |            |

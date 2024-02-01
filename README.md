@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 198
+Total: 199
 
 | Completed                                                                                                                                                             | Python | JavaScript |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
@@ -203,3 +203,4 @@ Total: 198
 | [2610. Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/)                             | x      |            |
 | [2706. Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/)                                                                                         | x      |            |
 | [2870. Minimum Number of Operations to Make Array Empty](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/)                             | x      |            |
+| [2966. Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/)                                     | x      |            |

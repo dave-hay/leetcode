@@ -1,10 +1,10 @@
 # Leetcode Solutions
 
-Total: 201
+Total: 202
 
 | Completed                                                                                                                                                             | Python | JavaScript | Go  |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- | --- |
-| [0001. Two Sum](https://leetcode.com/problems/two-sum/)                                                                                                               | x      |            |     |
+| [0001. Two Sum](https://leetcode.com/problems/two-sum/)                                                                                                               | x      |            | x   |
 | [0002. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                                                                               |        | x          |     |
 | [0003. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)                                 | x      | x          |     |
 | [0005. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)                                                                   | x      |            |     |
@@ -118,6 +118,7 @@ Total: 201
 | [0371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)                                                                                       | x      |            |     |
 | [0374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)                                                                     |        | x          |     |
 | [0380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)                                                                       | x      |            |     |
+| [0387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)                                                         | x      |            |
 | [0382. Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)                                                                               | x      |            |     |
 | [0408. Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation/)                                                                               | x      |            |     |
 | [0417. Pacific Atlantic Water Flow](https://www.youtube.com/watch?v=s-VkcjHqkGI)                                                                                      | x      |            |     |

@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 202
+Total: 203
 
 | Completed                                                                                                                                                             | Python | JavaScript | Go  |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- | --- |
@@ -161,6 +161,7 @@ Total: 202
 | [0987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)                                           | x      |            |     |
 | [0992. Subarray With K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/)                                                        |        | x          |     |
 | [1026. Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)                                     | x      |            |     |
+| [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)                                                                                           | x      |            |     |
 | [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)                                                         | x      |            |     |
 | [1074. Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)                                             | x      |            |     |
 | [1120. Maximum Average Subtree](https://leetcode.com/problems/maximum-average-subtree/)                                                                               | x      |            |     |

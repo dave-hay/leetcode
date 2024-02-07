@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 203
+Total: 204
 
 | Completed                                                                                                                                                             | Python | JavaScript | Go  |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- | --- |
@@ -124,10 +124,11 @@ Total: 203
 | [0417. Pacific Atlantic Water Flow](https://www.youtube.com/watch?v=s-VkcjHqkGI)                                                                                      | x      |            |     |
 | [0424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)                                               | x      |            |     |
 | [0435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)                                                                           | x      |            |     |
-| [0455. Assign Cookies](https://leetcode.com/problems/assign-cookies/)                                                                                                 | x      |            |     |
 | [0540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)                                                             | x      |            |     |
 | [0543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)                                                                               | x      |            |     |
 | [0547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/)                                                                                       | x      |            |     |
+| [0451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)                                                                     | x      |            |     |
+| [0455. Assign Cookies](https://leetcode.com/problems/assign-cookies/)                                                                                                 | x      |            |     |
 | [0567. Permutation in String](https://leetcode.com/problems/permutation-in-string/)                                                                                   | x      |            |     |
 | [0572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)                                                                               | x      |            |     |
 | [0576. Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/)                                                                                   | x      |            |     |

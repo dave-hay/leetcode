@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 204
+Total: 205
 
 | Completed                                                                                                                                                             | Python | JavaScript | Go  |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- | --- |
@@ -105,6 +105,7 @@ Total: 204
 | [0268. Missing Number](https://leetcode.com/problems/missing-number/)                                                                                                 | x      |            |     |
 | [0269. Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)                                                                                             | x      |            |     |
 | [0271. Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)                                                                           | x      | x          |     |
+| [0279. Perfect Squares](https://leetcode.com/problems/perfect-squares/)                                                                                               | x      |            |     |
 | [0295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)                                                                     | x      |            |     |
 | [0297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)                                                   | x      |            |     |
 | [0300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)                                                                 | x      |            |     |

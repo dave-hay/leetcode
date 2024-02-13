@@ -1,13 +1,5 @@
 class Solution:
     def maxAreaOfIsland(self, grid: List[List[int]]) -> int:
-        """
-        number of islands but max length
-        iterate over each cell
-        skip if 0
-        dfs if 1
-        replace 1 with 0
-        when over update max size
-        """
         ROWS, COLS = len(grid), len(grid[0])
         DIRS = [(0, 1), (0, -1), (1, 0), (-1, 0)]
         maxArea = 0

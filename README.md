@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 205
+Total: 206
 
 | Completed                                                                                                                                                             | Python | JavaScript | Go  |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- | --- |
@@ -80,7 +80,7 @@ Total: 205
 | [0155. Min Stack](https://leetcode.com/problems/min-stack/)                                                                                                           | x      |            |     |
 | [0159. Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/)                 | x      |            |     |
 | [0167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)                                                           | x      |            |     |
-| [0169. Majority Element](https://leetcode.com/problems/majority-element/)                                                                                             |        | x          |     |
+| [0169. Majority Element](https://leetcode.com/problems/majority-element/)                                                                                             | x      | x          |     |
 | [0190. Reverse Bits](https://leetcode.com/problems/reverse-bits/)                                                                                                     | x      |            |     |
 | [0191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)                                                                                             | x      |            |     |
 | [0198. House Robber](https://leetcode.com/problems/house-robber/)                                                                                                     |        | x          |     |
@@ -199,6 +199,7 @@ Total: 205
 | [1770. Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/)               | x      | x          |     |
 | [1897. Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/)                           | x      |            |     |
 | [1971. Find If Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/)                                                                     | x      | x          |     |
+| [2108. Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/)                                         | x      |            |     |
 | [2125. Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/)                                                               | x      |            |     |
 | [2225. Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/)                                                     | x      |            |     |
 | [2348. Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/)                                                               | x      |            |     |

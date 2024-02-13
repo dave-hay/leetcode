@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 206
+Total: 207
 
 | Completed                                                                                                                                                             | Python | JavaScript | Go  |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- | --- |
@@ -163,6 +163,7 @@ Total: 206
 | [0981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)                                                                         | x      |            |     |
 | [0987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)                                           | x      |            |     |
 | [0992. Subarray With K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/)                                                        |        | x          |     |
+| [0994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)                                                                                               | x      |            |     |
 | [1026. Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)                                     | x      |            |     |
 | [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)                                                                                           | x      |            |     |
 | [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)                                                         | x      |            |     |

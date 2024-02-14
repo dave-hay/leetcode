@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 208
+Total: 209
 
 | Completed                                                                                                                                                             | Python | JavaScript | Go  |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- | --- |
@@ -202,6 +202,7 @@ Total: 208
 | [1971. Find If Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/)                                                                     | x      | x          |     |
 | [2108. Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/)                                         | x      |            |     |
 | [2125. Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/)                                                               | x      |            |     |
+| [2149. Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/)                                                             | x      |            |     |
 | [2225. Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/)                                                     | x      |            |     |
 | [2348. Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/)                                                               | x      |            |     |
 | [2385. Amount of Time for Binary Tree to Be Infected](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/)                                   | x      |            |     |

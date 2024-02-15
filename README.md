@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 210
+Total: 211
 
 | Completed                                                                                                                                                             | Python | JavaScript | Go  |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- | --- |
@@ -214,3 +214,4 @@ Total: 210
 | [2706. Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/)                                                                                         | x      |            |     |
 | [2870. Minimum Number of Operations to Make Array Empty](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/)                             | x      |            |     |
 | [2966. Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/)                                     | x      |            |     |
+| [2971. Find Polygon With the Largest Perimeter](https://leetcode.com/problems/find-polygon-with-the-largest-perimeter/)                                               | x      |            |     |

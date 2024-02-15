@@ -28,4 +28,5 @@ class Solution:
         for c in range(numCourses):
             if dfs(c) == False:
                 return []
+
         return output

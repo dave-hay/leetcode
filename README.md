@@ -142,6 +142,7 @@ Total: 211
 | [0647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)                                                                                 | x      |            |     |
 | [0651. 4 Keys Keyboard](https://leetcode.com/problems/4-keys-keyboard/solution/)                                                                                      | x      |            |     |
 | [0680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)                                                                                       | x      |            |     |
+| [0684. Redundant Connection](https://leetcode.com/problems/redundant-connection/)                                                                                     | x      |            |     |
 | [0692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)                                                                                     | x      |            |     |
 | [0695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)                                                                                         | x      |            |     |
 | [0703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)                                                               | x      |            |     |

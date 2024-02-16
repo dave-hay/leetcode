@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 213
+Total: 214
 
 | Completed                                                                                                                                                             | Python | JavaScript | Go  |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- | --- |
@@ -65,6 +65,7 @@ Total: 213
 | [0121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                                                               | x      | x          |     |
 | [0124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)                                                                     | x      |            |     |
 | [0125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                                                                             |        | x          |     |
+| [0127. Word Ladder](https://leetcode.com/problems/word-ladder/)                                                                                                       | x      |            |     |
 | [0128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)                                                                     | x      | x          |     |
 | [0129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)                                                                             | x      |            |     |
 | [0131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)                                                                               | x      |            |     |

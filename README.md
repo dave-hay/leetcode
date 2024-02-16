@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 211
+Total: 213
 
 | Completed                                                                                                                                                             | Python | JavaScript | Go  |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- | --- |
@@ -189,6 +189,7 @@ Total: 211
 | [1464. Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)                                       | x      |            |     |
 | [1466. Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/)                 | x      |            |     |
 | [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)                                                                                           | x      |            |     |
+| [1481. Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/)                             | x      |            |     |
 | [1496. Path Crossing](https://leetcode.com/problems/path-crossing/)                                                                                                   | x      |            |     |
 | [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)                                                                       | x      |            |     |
 | [1578. Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/)                                                         | x      |            |     |

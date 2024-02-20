@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 215
+Total: 216
 
 | Completed                                                                                                                                                             | Python | JavaScript | Go  |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- | --- |
@@ -70,6 +70,7 @@ Total: 215
 | [0129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)                                                                             | x      |            |     |
 | [0131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)                                                                               | x      |            |     |
 | [0133. Clone Graph](https://leetcode.com/problems/clone-graph/solution/)                                                                                              | x      | x          |     |
+| [0134. Gas Station](https://leetcode.com/problems/gas-station/)                                                                                                       | x      |            |     |
 | [0139. Word Break](https://leetcode.com/problems/word-break/)                                                                                                         | x      |            |     |
 | [0141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                                                                           | x      | x          |     |
 | [0142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)                                                                                     | x      |            |     |

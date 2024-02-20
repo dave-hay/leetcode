@@ -17,18 +17,16 @@ class Solution:
     """
 
     def missingNumber(self, nums: List[int]) -> int:
-        # actual = sum(nums)
-        # expected = int(len(nums) / 2 * (len(nums) + 1))
-        # return expected - actual
+        """
+        sum of first n natural numbers is [n * (n + 1)] / 2
+        """
+        n = len(nums)
+        total = n * (n + 1) / 2
 
-        res = 0
-        for n in nums:
-            res += n
+        for num in nums:
+            total -= num
 
-        for i in range(len(nums) + 1):
-            res -= i
-
-        return res * -1
+        return int(total)
 
 
 class Solution:

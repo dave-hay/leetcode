@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 217
+Total: 218
 
 | Completed                                                                                                                                                             | Python | JavaScript | Go  |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- | --- |
@@ -157,6 +157,7 @@ Total: 217
 | [0791. Custom Sort String](https://leetcode.com/problems/custom-sort-string/)                                                                                         | x      |            |     |
 | [0797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)                                                               | x      | x          |     |
 | [0804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)                                                                               |        | x          |     |
+| [0846. Hand of Straights](https://leetcode.com/problems/hand-of-straights/)                                                                                           | x      |            |     |
 | [0853. Car Fleet](https://leetcode.com/problems/car-fleet/)                                                                                                           | x      |            |     |
 | [0875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)                                                                                       | x      |            |     |
 | [0872. Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)                                                                                         | x      |            |     |

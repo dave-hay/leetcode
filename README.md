@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 221
+Total: 222
 
 | Completed                                                                                                                                                             | Python | JavaScript | Go  |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- | --- |
@@ -124,8 +124,9 @@ Total: 221
 | [0371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)                                                                                       | x      |            |     |
 | [0374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)                                                                     |        | x          |     |
 | [0380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)                                                                       | x      |            |     |
-| [0387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)                                                         | x      |            |     |
 | [0382. Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)                                                                               | x      |            |     |
+| [0387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)                                                         | x      |            |     |
+| [0392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)                                                                                                 | x      |            |     |
 | [0408. Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation/)                                                                               | x      |            |     |
 | [0417. Pacific Atlantic Water Flow](https://www.youtube.com/watch?v=s-VkcjHqkGI)                                                                                      | x      |            |     |
 | [0424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)                                               | x      |            |     |

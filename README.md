@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 222
+Total: 223
 
 | Completed                                                                                                                                                             | Python | JavaScript | Go  |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- | --- |
@@ -155,6 +155,7 @@ Total: 222
 | [0733. Flood Fill](https://leetcode.com/problems/flood-fill/)                                                                                                         |        | x          |     |
 | [0739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)                                                                                         | x      |            |     |
 | [0740. Delete and Earn](https://leetcode.com/problems/delete-and-earn/)                                                                                               | x      |            |     |
+| [0763. Partition Labels](https://leetcode.com/problems/partition-labels/)                                                                                             | x      |            |     |
 | [0783. Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)                                                         | x      |            |     |
 | [0791. Custom Sort String](https://leetcode.com/problems/custom-sort-string/)                                                                                         | x      |            |     |
 | [0797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)                                                               | x      | x          |     |

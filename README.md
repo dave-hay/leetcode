@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 228
+Total: 229
 
 | Completed                                                                                                                                                             | Python | JavaScript | Go  |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- | --- |
@@ -94,6 +94,7 @@ Total: 228
 | [0206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                                                                                       |        | x          |     |
 | [0207. Course Schedule](https://leetcode.com/problems/course-schedule/)                                                                                               | x      |            |     |
 | [0208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)                                                                       | x      |            |     |
+| [0209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)                                                                           | x      |            |     |
 | [0210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)                                                                                         | x      |            |     |
 | [0211. Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)                                         | x      |            |     |
 | [0212. Word Search II](https://leetcode.com/problems/word-search-ii/)                                                                                                 | x      |            |     |

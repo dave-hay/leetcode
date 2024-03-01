@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 229
+Total: 230
 
 | Completed                                                                                                                                                             | Python | JavaScript | Go  |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- | --- |
@@ -230,6 +230,7 @@ Total: 229
 | [2492. Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/)                                         | x      |            |     |
 | [2610. Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/)                             | x      |            |     |
 | [2706. Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/)                                                                                         | x      |            |     |
+| [2864. Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number/)                                                                           | x      |            |     |
 | [2870. Minimum Number of Operations to Make Array Empty](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/)                             | x      |            |     |
 | [2966. Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/)                                     | x      |            |     |
 | [2971. Find Polygon With the Largest Perimeter](https://leetcode.com/problems/find-polygon-with-the-largest-perimeter/)                                               | x      |            |     |

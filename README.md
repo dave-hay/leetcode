@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 231
+Total: 232
 
 | Completed                                                                                                                                                             | Python | JavaScript | Go  |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- | --- |
@@ -174,6 +174,7 @@ Total: 231
 | [0953. Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)                                                                   | x      |            |     |
 | [0958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)                                                       | x      |            |     |
 | [0973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)                                                                         | x      |            |     |
+| [0977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)                                                                           | x      |            |     |
 | [0981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)                                                                         | x      |            |     |
 | [0987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)                                           | x      |            |     |
 | [0992. Subarray With K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/)                                                        |        | x          |     |

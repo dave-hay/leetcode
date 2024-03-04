@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 232
+Total: 233
 
 | Completed                                                                                                                                                             | Python | JavaScript | Go  |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- | --- |
@@ -171,6 +171,7 @@ Total: 232
 | [0872. Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)                                                                                         | x      |            |     |
 | [0904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)                                                                                         | x      |            |     |
 | [0938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)                                                                                             | x      |            |     |
+| [0948. Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/)                                                                                                   | x      |            |     |
 | [0953. Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)                                                                   | x      |            |     |
 | [0958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)                                                       | x      |            |     |
 | [0973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)                                                                         | x      |            |     |

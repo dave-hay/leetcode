@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 234
+Total: 235
 
 | Completed                                                                                                                                                             | Python | JavaScript | Go  |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- | --- |
@@ -169,6 +169,7 @@ Total: 234
 | [0853. Car Fleet](https://leetcode.com/problems/car-fleet/)                                                                                                           | x      |            |     |
 | [0875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)                                                                                       | x      |            |     |
 | [0872. Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)                                                                                         | x      |            |     |
+| [0876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)                                                                           | x      |            |     |
 | [0904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)                                                                                         | x      |            |     |
 | [0938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)                                                                                             | x      |            |     |
 | [0948. Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/)                                                                                                   | x      |            |     |

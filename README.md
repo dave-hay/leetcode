@@ -135,12 +135,12 @@ Total: 235
 | [0417. Pacific Atlantic Water Flow](https://www.youtube.com/watch?v=s-VkcjHqkGI)                                                                                      | x      |            |     |
 | [0424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)                                               | x      |            |     |
 | [0435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)                                                                           | x      |            |     |
+| [0451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)                                                                     | x      |            |     |
+| [0455. Assign Cookies](https://leetcode.com/problems/assign-cookies/)                                                                                                 | x      |            |     |
 | [0513. Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/)                                                                       | x      |            |     |
 | [0540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)                                                             | x      |            |     |
 | [0543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)                                                                               | x      |            |     |
 | [0547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/)                                                                                       | x      |            |     |
-| [0451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)                                                                     | x      |            |     |
-| [0455. Assign Cookies](https://leetcode.com/problems/assign-cookies/)                                                                                                 | x      |            |     |
 | [0567. Permutation in String](https://leetcode.com/problems/permutation-in-string/)                                                                                   | x      |            |     |
 | [0572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)                                                                               | x      |            |     |
 | [0576. Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/)                                                                                   | x      |            |     |
@@ -167,8 +167,8 @@ Total: 235
 | [0804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)                                                                               |        | x          |     |
 | [0846. Hand of Straights](https://leetcode.com/problems/hand-of-straights/)                                                                                           | x      |            |     |
 | [0853. Car Fleet](https://leetcode.com/problems/car-fleet/)                                                                                                           | x      |            |     |
-| [0875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)                                                                                       | x      |            |     |
 | [0872. Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)                                                                                         | x      |            |     |
+| [0875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)                                                                                       | x      |            |     |
 | [0876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)                                                                           | x      |            |     |
 | [0904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)                                                                                         | x      |            |     |
 | [0938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)                                                                                             | x      |            |     |
@@ -229,8 +229,8 @@ Total: 235
 | [2149. Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/)                                                             | x      |            |     |
 | [2225. Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/)                                                     | x      |            |     |
 | [2348. Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/)                                                               | x      |            |     |
-| [2385. Amount of Time for Binary Tree to Be Infected](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/)                                   | x      |            |     |
 | [2360. Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/)                                                                             | x      |            |     |
+| [2385. Amount of Time for Binary Tree to Be Infected](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/)                                   | x      |            |     |
 | [2482. Difference Between Ones and Zeros in Row and Column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/)                       | x      |            |     |
 | [2492. Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/)                                         | x      |            |     |
 | [2610. Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/)                             | x      |            |     |

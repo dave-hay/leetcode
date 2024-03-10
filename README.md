@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 236
+Total: 237
 
 | Completed                                                                                                                                                             | Python | JavaScript | Go  |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- | --- |
@@ -125,6 +125,7 @@ Total: 236
 | [0339. Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/)                                                                                 | x      |            |     |
 | [0346. Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/)                                                               |        | x          |     |
 | [0347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)                                                                               | x      | x          |     |
+| [0349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)                                                                         | x      |            |     |
 | [0371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)                                                                                       | x      |            |     |
 | [0374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)                                                                     |        | x          |     |
 | [0380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)                                                                       | x      |            |     |

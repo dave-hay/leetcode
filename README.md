@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 238
+Total: 239
 
 | Completed                                                                                                                                                             | Python | JavaScript | Go  |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- | --- |
@@ -172,6 +172,7 @@ Total: 238
 | [0875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)                                                                                       | x      |            |     |
 | [0876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)                                                                           | x      |            |     |
 | [0904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)                                                                                         | x      |            |     |
+| [0930. Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/)                                                                           | x      |            |     |
 | [0938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)                                                                                             | x      |            |     |
 | [0948. Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/)                                                                                                   | x      |            |     |
 | [0953. Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)                                                                   | x      |            |     |

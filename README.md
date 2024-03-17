@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 239
+Total: 240
 
 | Completed                                                                                                                                                             | Python | JavaScript | Go  |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- | --- |
@@ -115,6 +115,7 @@ Total: 239
 | [0269. Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)                                                                                             | x      |            |     |
 | [0271. Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)                                                                           | x      | x          |     |
 | [0279. Perfect Squares](https://leetcode.com/problems/perfect-squares/)                                                                                               | x      |            |     |
+| [0290. Word Pattern](https://leetcode.com/problems/word-pattern/)                                                                                                     | x      |            |     |
 | [0295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)                                                                     | x      |            |     |
 | [0297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)                                                   | x      |            |     |
 | [0300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)                                                                 | x      |            |     |
@@ -208,38 +209,5 @@ Total: 239
 | [1466. Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/)                 | x      |            |     |
 | [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)                                                                                           | x      |            |     |
 | [1481. Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/)                             | x      |            |     |
-| [1496. Path Crossing](https://leetcode.com/problems/path-crossing/)                                                                                                   | x      |            |     |
-| [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)                                                                       | x      |            |     |
-| [1578. Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/)                                                         | x      |            |     |
-| [1609. Even Odd Tree](https://leetcode.com/problems/even-odd-tree/)                                                                                                   | x      |            |     |
-| [1624. Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/)                                 | x      |            |     |
-| [1626. Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/)                                                                       | x      |            |     |
-| [1637. Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/)     | x      |            |     |
-| [1642. Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/)                                                               | x      |            |     |
-| [1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/)                                                         | x      |            |     |
-| [1688. Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/)                                                                 | x      |            |     |
-| [1704. Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/)                                                     | x      |            |     |
-| [1750. Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/)                     | x      |            |     |
-| [1758. Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/)                           | x      |            |     |
-| [1770. Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/)               | x      | x          |     |
-| [1897. Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/)                           | x      |            |     |
-| [1899. Merge Triplets to Form Target Triplet](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/)                                                   | x      |            |     |
-| [1971. Find If Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/)                                                                     | x      | x          |     |
-| [2092. Find All People With Secret](https://leetcode.com/problems/find-all-people-with-secret/)                                                                       | x      |            |     |
-| [2108. Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/)                                         | x      |            |     |
-| [2125. Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/)                                                               | x      |            |     |
-| [2149. Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/)                                                             | x      |            |     |
-| [2225. Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/)                                                     | x      |            |     |
-| [2348. Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/)                                                               | x      |            |     |
-| [2360. Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/)                                                                             | x      |            |     |
-| [2385. Amount of Time for Binary Tree to Be Infected](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/)                                   | x      |            |     |
-| [2482. Difference Between Ones and Zeros in Row and Column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/)                       | x      |            |     |
-| [2485. Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/)                                                                                 | x      |            |     |
-| [2492. Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/)                                         | x      |            |     |
-| [2610. Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/)                             | x      |            |     |
-| [2706. Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/)                                                                                         | x      |            |     |
-| [2864. Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number/)                                                                           | x      |            |     |
-| [2870. Minimum Number of Operations to Make Array Empty](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/)                             | x      |            |     |
-| [2966. Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/)                                     | x      |            |     |
-| [2971. Find Polygon With the Largest Perimeter](https://leetcode.com/problems/find-polygon-with-the-largest-perimeter/)                                               | x      |            |     |
-| [3005. Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/)                                                   | x      |            |     |
+
+| [1496. Path Crossing](https://leetcode.com/problems/path-crossing/)

@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 240
+Total: 241
 
 | Completed                                                                                                                                                             | Python | JavaScript | Go  |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- | --- |
@@ -138,6 +138,7 @@ Total: 240
 | [0424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)                                               | x      |            |     |
 | [0435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)                                                                           | x      |            |     |
 | [0451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)                                                                     | x      |            |     |
+| [0452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)                                         | x      |            |     |
 | [0455. Assign Cookies](https://leetcode.com/problems/assign-cookies/)                                                                                                 | x      |            |     |
 | [0513. Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/)                                                                       | x      |            |     |
 | [0540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)                                                             | x      |            |     |

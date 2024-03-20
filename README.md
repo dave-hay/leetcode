@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 241
+Total: 242
 
 | Completed                                                                                                                                                             | Python | JavaScript | Go  |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- | --- |
@@ -219,6 +219,7 @@ Total: 241
 | [1637. Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/)     | x      |            |     |
 | [1642. Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/)                                                               | x      |            |     |
 | [1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/)                                                         | x      |            |     |
+| [1669. Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/)                                                                   | x      |            |     |
 | [1688. Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/)                                                                 | x      |            |     |
 | [1704. Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/)                                                     | x      |            |     |
 | [1750. Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/)                     | x      |            |     |

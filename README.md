@@ -6,7 +6,7 @@ Total: 242
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- | --- |
 | [0001. Two Sum](https://leetcode.com/problems/two-sum/)                                                                                                               | x      |            | x   |
 | [0002. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                                                                               |        | x          |     |
-| [0003. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)                                 | x      | x          |     |
+| [0003. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)                                 | x      | x          | x   |
 | [0005. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)                                                                   | x      |            |     |
 | [0006. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)                                                                                           | x      |            |     |
 | [0007. Reverse Integer](https://leetcode.com/problems/reverse-integer/)                                                                                               | x      |            |     |

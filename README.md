@@ -92,7 +92,7 @@ Total: 242
 | [0200. Number of Islands](https://leetcode.com/problems/number-of-islands/)                                                                                           | x      |            |     |
 | [0201. Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)                                                                     | x      |            |     |
 | [0205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)                                                                                         | x      |            |     |
-| [0206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                                                                                       |        | x          |     |
+| [0206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                                                                                       |        | x          | x   |
 | [0207. Course Schedule](https://leetcode.com/problems/course-schedule/)                                                                                               | x      |            |     |
 | [0208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)                                                                       | x      |            |     |
 | [0209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)                                                                           | x      |            |     |

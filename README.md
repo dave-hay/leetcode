@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 242
+Total: 243
 
 | Completed                                                                                                                                                             | Python | JavaScript | Go  |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- | --- |
@@ -104,6 +104,7 @@ Total: 242
 | [0217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                                                                         |        | x          |     |
 | [0226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)                                                                                         | x      | x          |     |
 | [0230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)                                                                   | x      |            |     |
+| [0234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)                                                                                 | x      |            |     |
 | [0235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)                                 | x      | x          |     |
 | [0238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)                                                                     | x      | x          |     |
 | [0239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)                                                                                 | x      |            |     |

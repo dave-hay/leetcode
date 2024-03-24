@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 243
+Total: 244
 
 | Completed                                                                                                                                                             | Python | JavaScript | Go  |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- | --- |
@@ -116,6 +116,7 @@ Total: 243
 | [0269. Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)                                                                                             | x      |            |     |
 | [0271. Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)                                                                           | x      | x          |     |
 | [0279. Perfect Squares](https://leetcode.com/problems/perfect-squares/)                                                                                               | x      |            |     |
+| [0287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)                                                                           | x      |            |     |
 | [0290. Word Pattern](https://leetcode.com/problems/word-pattern/)                                                                                                     | x      |            |     |
 | [0295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)                                                                     | x      |            |     |
 | [0297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)                                                   | x      |            |     |

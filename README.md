@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 244
+Total: 245
 
 | Completed                                                                                                                                                             | Python | JavaScript | Go  |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- | --- |
@@ -139,6 +139,7 @@ Total: 244
 | [0417. Pacific Atlantic Water Flow](https://www.youtube.com/watch?v=s-VkcjHqkGI)                                                                                      | x      |            |     |
 | [0424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)                                               | x      |            |     |
 | [0435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)                                                                           | x      |            |     |
+| [0442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)                                                               | x      |            |     |
 | [0451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)                                                                     | x      |            |     |
 | [0452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)                                         | x      |            |     |
 | [0455. Assign Cookies](https://leetcode.com/problems/assign-cookies/)                                                                                                 | x      |            |     |

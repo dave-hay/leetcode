@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 245
+Total: 246
 
 | Completed                                                                                                                                                             | Python | JavaScript | Go  |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- | --- |
@@ -27,6 +27,7 @@ Total: 245
 | [0035. Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                                                                 | x      |            |     |
 | [0036. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                                                                                                     | x      |            |     |
 | [0039. Combination Sum](https://leetcode.com/problems/combination-sum/)                                                                                               | x      |            |     |
+| [0041. First Missing Positive](https://leetcode.com/problems/first-missing-positive/)                                                                                 | x      |            |     |
 | [0042. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)                                                                                       | x      |            |     |
 | [0045. Jump Game II](https://leetcode.com/problems/jump-game-ii/)                                                                                                     | x      |            |     |
 | [0046. Permutations](https://leetcode.com/problems/permutations/)                                                                                                     | x      |            |     |

@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 248
+Total: 249
 
 | Completed                                                                                                                                                             | Python | JavaScript | Go  |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- | --- |
@@ -24,6 +24,7 @@ Total: 248
 | [0026. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)                                                       | x      |            |     |
 | [0028. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)                         | x      |            |     |
 | [0033. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)                                                                 | x      |            |     |
+| [0034. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)               | x      |            |     |
 | [0035. Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                                                                 | x      |            |     |
 | [0036. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                                                                                                     | x      |            |     |
 | [0039. Combination Sum](https://leetcode.com/problems/combination-sum/)                                                                                               | x      |            |     |

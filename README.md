@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 249
+Total: 250
 
 | Completed                                                                                                                                                             | Python | JavaScript | Go |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- | -- |
@@ -250,6 +250,7 @@ Total: 249
 | [2864. Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number/)                                                                           | x      |            |    |
 | [2870. Minimum Number of Operations to Make Array Empty](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/)                             | x      |            |    |
 | [2958. Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/)                       | x      |            |    |
+| [2962. Count Subarrays Where Max Element Appears at Least K Times](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/)         | x      |            |    |
 | [2966. Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/)                                     | x      |            |    |
 | [2971. Find Polygon With the Largest Perimeter](https://leetcode.com/problems/find-polygon-with-the-largest-perimeter/)                                               | x      |            |    |
 | [3005. Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/)                                                   | x      |            |    |

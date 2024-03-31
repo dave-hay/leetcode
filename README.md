@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 250
+Total: 251
 
 | Completed                                                                                                                                                             | Python | JavaScript | Go |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- | -- |
@@ -242,6 +242,7 @@ Total: 250
 | [2348. Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/)                                                               | x      |            |    |
 | [2360. Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/)                                                                             | x      |            |    |
 | [2385. Amount of Time for Binary Tree to Be Infected](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/)                                   | x      |            |    |
+| [2444. Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/)                                                           | x      |            |    |
 | [2482. Difference Between Ones and Zeros in Row and Column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/)                       | x      |            |    |
 | [2485. Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/)                                                                                 | x      |            |    |
 | [2492. Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/)                                         | x      |            |    |

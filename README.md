@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 251
+Total: 252
 
 | Completed                                                                                                                                                             | Python | JavaScript | Go |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- | -- |
@@ -220,6 +220,7 @@ Total: 251
 | [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)                                                                       | x      |            |    |
 | [1578. Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/)                                                         | x      |            |    |
 | [1609. Even Odd Tree](https://leetcode.com/problems/even-odd-tree/)                                                                                                   | x      |            |    |
+| [1614. Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)                                             | x      |            |    |
 | [1624. Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/)                                 | x      |            |    |
 | [1626. Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/)                                                                       | x      |            |    |
 | [1637. Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/)     | x      |            |    |

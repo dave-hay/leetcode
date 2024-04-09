@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 254
+Total: 255
 
 | Completed                                                                                                                                                             | Python | JavaScript | Go |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- | -- |
@@ -237,6 +237,7 @@ Total: 254
 | [1897. Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/)                           | x      |            |    |
 | [1899. Merge Triplets to Form Target Triplet](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/)                                                   | x      |            |    |
 | [1971. Find If Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/)                                                                     | x      | x          |    |
+| [2073. Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/)                                                                         | x      |            |    |
 | [2092. Find All People With Secret](https://leetcode.com/problems/find-all-people-with-secret/)                                                                       | x      |            |    |
 | [2108. Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/)                                         | x      |            |    |
 | [2125. Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/)                                                               | x      |            |    |

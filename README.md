@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 255
+Total: 257
 
 | Completed                                                                                                                                                             | Python | JavaScript | Go |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- | -- |
@@ -137,6 +137,7 @@ Total: 255
 | [0380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)                                                                       | x      |            |    |
 | [0382. Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)                                                                               | x      |            |    |
 | [0387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)                                                         | x      |            |    |
+| [0404. SumofLeftLeaves](https://leetcode.com/problems/sum-of-left-leaves/)                                                                                            | x      |            |    |
 | [0392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)                                                                                                 | x      |            |    |
 | [0408. Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation/)                                                                               | x      |            |    |
 | [0417. Pacific Atlantic Water Flow](https://www.youtube.com/watch?v=s-VkcjHqkGI)                                                                                      | x      |            |    |

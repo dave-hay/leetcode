@@ -45,6 +45,9 @@ def update_readme(num, name):
     with open("README.md") as fp:
         lines = fp.readlines()
 
+    total = int(lines[2][7:]) + 1
+    lines[2] = f"Total: {total}\n"
+
     prev = -1
     for i, line in enumerate(lines):
         cur = get_number(line)

@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 257
+Total: 258
 
 | Completed                                                                                                                                                             | Python | JavaScript | Go |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- | -- |
@@ -251,6 +251,7 @@ Total: 257
 | [2444. Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/)                                                           | x      |            |    |
 | [2482. Difference Between Ones and Zeros in Row and Column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/)                       | x      |            |    |
 | [2485. Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/)                                                                                 | x      |            |    |
+|[2559. CountVowelStringsinRanges](https://leetcode.com/problems/count-vowel-strings-in-ranges/)|x|||
 | [2492. Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/)                                         | x      |            |    |
 | [2610. Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/)                             | x      |            |    |
 | [2706. Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/)                                                                                         | x      |            |    |

@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 258
+Total: 259
 
 | Completed                                                                                                                                                             | Python | JavaScript | Go |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- | -- |
@@ -237,6 +237,7 @@ Total: 258
 | [1758. Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/)                           | x      |            |    |
 | [1770. Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/)               | x      | x          |    |
 | [1897. Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/)                           | x      |            |    |
+|[1930. UniqueLength-3PalindromicSubsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/)|x|||
 | [1899. Merge Triplets to Form Target Triplet](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/)                                                   | x      |            |    |
 | [1971. Find If Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/)                                                                     | x      | x          |    |
 | [2073. Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/)                                                                         | x      |            |    |

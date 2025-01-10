@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 260
+Total: 261
 
 | Completed                                                                                                                                                             | Python | JavaScript | Go |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- | -- |
@@ -181,6 +181,7 @@ Total: 260
 | [0872. Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)                                                                                         | x      |            |    |
 | [0875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)                                                                                       | x      |            |    |
 | [0876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)                                                                           | x      |            |    |
+|[0916. WordSubsets](https://leetcode.com/problems/word-subsets/)|x|||
 | [0904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)                                                                                         | x      |            |    |
 | [0930. Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/)                                                                           | x      |            |    |
 | [0938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)                                                                                             | x      |            |    |

@@ -44,7 +44,7 @@ Total: 262
 | [0062. Unique Paths](https://leetcode.com/problems/unique-paths/)                                                                                                     | x      |            |    |
 | [0064. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)                                                                                             | x      |            |    |
 | [0069. Sqrt(x)](https://leetcode.com/problems/sqrtx/)                                                                                                                 | x      | x          |    |
-| [0070. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                                                                               |        | x          |    |
+| [0070. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                                                                               | x       | x          |    |
 | [0073. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)                                                                                           | x      |            |    |
 | [0074. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)                                                                                         | x      |            |    |
 | [0076. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)                                                                             | x      |            |    |

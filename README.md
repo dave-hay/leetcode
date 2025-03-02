@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 261
+Total: 262
 
 | Completed                                                                                                                                                             | Python | JavaScript | Go |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- | -- |
@@ -135,6 +135,7 @@ Total: 261
 | [0371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)                                                                                       | x      |            |    |
 | [0374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)                                                                     |        | x          |    |
 | [0380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)                                                                       | x      |            |    |
+|[0383. RansomNote](https://leetcode.com/problems/ransom-note/)|x|||
 | [0382. Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)                                                                               | x      |            |    |
 | [0387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)                                                         | x      |            |    |
 | [0404. SumofLeftLeaves](https://leetcode.com/problems/sum-of-left-leaves/)                                                                                            | x      |            |    |
@@ -168,7 +169,7 @@ Total: 261
 | [0703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)                                                               | x      |            |    |
 | [0704. Binary Search](https://leetcode.com/problems/binary-search/)                                                                                                   |        | x          |    |
 | [0713. Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)                                                                     | x      |            |    |
-| [0733. Flood Fill](https://leetcode.com/problems/flood-fill/)                                                                                                         |        | x          |    |
+| [0733. Flood Fill](https://leetcode.com/problems/flood-fill/)                                                                                                         | x      | x          |    |
 | [0739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)                                                                                         | x      |            |    |
 | [0740. Delete and Earn](https://leetcode.com/problems/delete-and-earn/)                                                                                               | x      |            |    |
 | [0763. Partition Labels](https://leetcode.com/problems/partition-labels/)                                                                                             | x      |            |    |
@@ -181,7 +182,7 @@ Total: 261
 | [0872. Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)                                                                                         | x      |            |    |
 | [0875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)                                                                                       | x      |            |    |
 | [0876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)                                                                           | x      |            |    |
-|[0916. WordSubsets](https://leetcode.com/problems/word-subsets/)|x|||
+| [0916. WordSubsets](https://leetcode.com/problems/word-subsets/)                                                                                                      | x      |            |    |
 | [0904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)                                                                                         | x      |            |    |
 | [0930. Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/)                                                                           | x      |            |    |
 | [0938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)                                                                                             | x      |            |    |
@@ -238,7 +239,7 @@ Total: 261
 | [1758. Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/)                           | x      |            |    |
 | [1770. Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/)               | x      | x          |    |
 | [1897. Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/)                           | x      |            |    |
-|[1930. UniqueLength-3PalindromicSubsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/)|x|||
+| [1930. UniqueLength-3PalindromicSubsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/)                                                | x      |            |    |
 | [1899. Merge Triplets to Form Target Triplet](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/)                                                   | x      |            |    |
 | [1971. Find If Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/)                                                                     | x      | x          |    |
 | [2073. Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/)                                                                         | x      |            |    |
@@ -253,7 +254,7 @@ Total: 261
 | [2444. Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/)                                                           | x      |            |    |
 | [2482. Difference Between Ones and Zeros in Row and Column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/)                       | x      |            |    |
 | [2485. Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/)                                                                                 | x      |            |    |
-|[2559. CountVowelStringsinRanges](https://leetcode.com/problems/count-vowel-strings-in-ranges/)|x|||
+| [2559. CountVowelStringsinRanges](https://leetcode.com/problems/count-vowel-strings-in-ranges/)                                                                       | x      |            |    |
 | [2492. Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/)                                         | x      |            |    |
 | [2610. Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/)                             | x      |            |    |
 | [2706. Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/)                                                                                         | x      |            |    |

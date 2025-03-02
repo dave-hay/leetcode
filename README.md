@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 262
+Total: 263
 
 | Completed                                                                                                                                                             | Python | JavaScript | Go |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- | -- |
@@ -140,6 +140,7 @@ Total: 262
 | [0387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)                                                         | x      |            |    |
 | [0404. SumofLeftLeaves](https://leetcode.com/problems/sum-of-left-leaves/)                                                                                            | x      |            |    |
 | [0392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)                                                                                                 | x      |            |    |
+|[0409. LongestPalindrome](https://leetcode.com/problems/longest-palindrome/)|x|||
 | [0408. Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation/)                                                                               | x      |            |    |
 | [0417. Pacific Atlantic Water Flow](https://www.youtube.com/watch?v=s-VkcjHqkGI)                                                                                      | x      |            |    |
 | [0424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)                                               | x      |            |    |

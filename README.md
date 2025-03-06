@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 263
+Total: 264
 
 | Completed                                                                                                                                                             | Python | JavaScript | Go |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- | -- |
@@ -42,6 +42,7 @@ Total: 263
 | [0057. Insert Interval](https://leetcode.com/problems/insert-interval/)                                                                                               | x      | x          |    |
 | [0058. Length of Last Word](https://leetcode.com/problems/length-of-last-word/)                                                                                       | x      |            |    |
 | [0062. Unique Paths](https://leetcode.com/problems/unique-paths/)                                                                                                     | x      |            |    |
+|[0067. AddBinary](https://leetcode.com/problems/add-binary/)|x|||
 | [0064. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)                                                                                             | x      |            |    |
 | [0069. Sqrt(x)](https://leetcode.com/problems/sqrtx/)                                                                                                                 | x      | x          |    |
 | [0070. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                                                                               | x       | x          |    |

@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Total: 264
+Total: 265
 
 | Completed                                                                                                                                                             | Python | JavaScript | Go |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- | -- |
@@ -170,6 +170,7 @@ Total: 264
 | [0695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)                                                                                         | x      |            |    |
 | [0703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)                                                               | x      |            |    |
 | [0704. Binary Search](https://leetcode.com/problems/binary-search/)                                                                                                   |        | x          |    |
+|[0721. AccountsMerge](https://leetcode.com/problems/accounts-merge/)|x|||
 | [0713. Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)                                                                     | x      |            |    |
 | [0733. Flood Fill](https://leetcode.com/problems/flood-fill/)                                                                                                         | x      | x          |    |
 | [0739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)                                                                                         | x      |            |    |
